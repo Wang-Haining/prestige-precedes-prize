@@ -1,0 +1,10 @@
+sample,quartile,links,share_acknowledged,by
+history,bottom,275962,0.8180619070741624,sample+quartile
+history,top,1323271,0.8120664625764488,sample+quartile
+missed,bottom,5490,0.9109289617486339,sample+quartile
+missed,top,26729,0.891092072281043,sample+quartile
+outcome,bottom,70372,0.9145967146023987,sample+quartile
+outcome,top,351647,0.9148464226909372,sample+quartile
+history,,1599233,0.0005658962765275604,negative control: shuffled awards
+missed,,32219,0.0010863155281045345,negative control: shuffled awards
+outcome,,422019,0.00043599932704451697,negative control: shuffled awards

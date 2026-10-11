@@ -1,0 +1,259 @@
+\begin{table}[H]
+\centering\small
+\caption{Award linkage by analysis group. In the recall rows, the columns give reference awards and recall (\%). In the detection rows, they give paper windows with a reference award (before / after) and the share detected (\%) in each window.}\label{tab:s_linkage_groups}
+\footnotesize
+\begin{tabularx}{\linewidth}{>{\raggedright\arraybackslash}Xrrr}
+\toprule
+Group & \makecell[rb]{Reference\\awards or\\windows} & \makecell[rb]{Recall or\\detected,\\before (\%)} & \makecell[rb]{Detected,\\after (\%)} \\
+\midrule
+\multicolumn{4}{>{\raggedright\arraybackslash}p{\dimexpr\textwidth-2\tabcolsep\relax}}{\textit{Award-level recall: share of acknowledged awards led by the author, months $-24$ to $<36$}} \\
+All papers: top 5\% & 190,676 & 39.7 &  \\
+All papers: other journals & 858,969 & 37.0 &  \\
+All papers: near-top journals & 246,824 & 38.6 &  \\
+Years as last author $<$5: top 5\% & 35,283 & 37.5 &  \\
+Years as last author $<$5: other journals & 158,301 & 35.8 &  \\
+Years as last author 5 to $<$10: top 5\% & 31,120 & 38.9 &  \\
+Years as last author 5 to $<$10: other journals & 136,807 & 36.6 &  \\
+Years as last author $\geq$10: top 5\% & 124,273 & 40.5 &  \\
+Years as last author $\geq$10: other journals & 563,861 & 37.5 &  \\
+Same-scientist pairs, top journal first: top-journal paper & 37,118 & 38.1 &  \\
+Same-scientist pairs, top journal first: other paper & 34,637 & 39.2 &  \\
+Same-scientist pairs, top journal second: top-journal paper & 54,496 & 39.0 &  \\
+Same-scientist pairs, top journal second: other paper & 58,152 & 37.6 &  \\
+First top-journal paper (2017--2020, no earlier top-journal paper) & 6,519 & 32.9 &  \\
+Comparison papers, other journals (2017--2020, no earlier top-journal paper) & 91,771 & 35.5 &  \\
+Comparison papers, near-top journals (2017--2020, no earlier top-journal paper) & 19,910 & 35.8 &  \\
+\multicolumn{4}{>{\raggedright\arraybackslash}p{\dimexpr\textwidth-2\tabcolsep\relax}}{\textit{Detection of the binary outcome: share of windows with an acknowledged award in which a new lead award is recorded}} \\
+All papers: top 5\% & 21,512 / 20,226 & 47.0 & 44.5 \\
+All papers: other journals & 108,683 / 101,203 & 44.7 & 41.7 \\
+All papers: near-top journals & 32,213 / 29,928 & 46.5 & 43.7 \\
+Same-scientist pairs: top-journal paper & 10,348 / 10,298 & 46.2 & 43.3 \\
+Same-scientist pairs: other paper & 10,000 / 10,732 & 47.0 & 43.2 \\
+First top-journal paper (2017--2020) & 946 / 903 & 42.1 & 37.3 \\
+Comparison papers, other journals (2017--2020) & 13,575 / 12,429 & 42.9 & 39.8 \\
+Comparison papers, near-top journals (2017--2020) & 2,992 / 2,747 & 43.1 & 40.0 \\
+\bottomrule
+\end{tabularx}
+\end{table}
+
+\begin{table}[H]
+\centering\small
+\caption{Between scientists: new lead awards per 1,000 index papers after top-journal papers and after comparison papers, directly standardized over topic-year sets, by definition of a top journal and against near-top journals. In the near-top rows, both rates are standardized over the topic-year sets that contain both kinds of journal. The smallest difference of interest ($\delta$) is one quarter of the after-window difference.}\label{tab:s_between}
+\footnotesize
+\begin{tabularx}{\linewidth}{>{\raggedright\arraybackslash}Xrrrrrr}
+\toprule
+Comparison & \makecell[rb]{Top-journal\\papers (/\\near-top\\papers)} & \makecell[rb]{Rates, after\\(top /\\comparison)} & \makecell[rb]{After:\\difference} & \makecell[rb]{After: risk\\ratio} & \makecell[rb]{Before:\\difference} & $\delta$ \\
+\midrule
+\multicolumn{7}{>{\raggedright\arraybackslash}p{\dimexpr\textwidth-2\tabcolsep\relax}}{\textit{Top journals against all other journals}} \\
+Top 5\% & 180,824 & 55.3 / 26.3 & 29.0 (26.5 to 32.2) & 2.10 (2.00 to 2.23) & 30.7 (28.1 to 33.7) & 7.26 \\
+Top 10\% & 374,034 & 49.0 / 24.5 & 24.6 (22.6 to 27.0) & 2.01 (1.91 to 2.12) & 26.0 (23.9 to 28.6) & 6.14 \\
+Top 25\% & 874,112 & 39.6 / 20.9 & 18.7 (17.0 to 20.6) & 1.89 (1.77 to 2.03) & 20.4 (18.6 to 22.5) & 4.68 \\
+Most cited journal & 4,160 & 61.8 / 29.7 & 32.1 (28.6 to 35.7) & 2.08 (1.95 to 2.23) & 29.5 (26.2 to 33.0) & 8.03 \\
+\multicolumn{7}{>{\raggedright\arraybackslash}p{\dimexpr\textwidth-2\tabcolsep\relax}}{\textit{Top 5\% against near-top journals}} \\
+Percentile 0.85 to $<$0.95 & 180,824 / 380,701 & 58.7 / 42.0 & 16.7 (13.7 to 20.1) & 1.40 (1.32 to 1.48) & 17.2 (14.0 to 20.5) & 4.18 \\
+Percentile 0.90 to $<$0.95 & 180,824 / 199,461 & 58.6 / 45.9 & 12.7 (9.7 to 16.1) & 1.28 (1.21 to 1.35) & 13.3 (9.9 to 16.8) & 3.18 \\
+\bottomrule
+\end{tabularx}
+\end{table}
+
+\begin{table}[H]
+\centering\small
+\caption{Differences in new lead awards per 1,000 index papers, top 5\% of journals minus other or near-top journals, in windows other than the before and after windows (Tables~S4 and~S8 give those). Same-scientist pairs are far enough apart that the windows compared do not overlap.}\label{tab:s_timing}
+\footnotesize
+\begin{tabularx}{\linewidth}{>{\raggedright\arraybackslash}Xllrr}
+\toprule
+Comparison & Comparator & \makecell[lb]{Window\\(months)} & \makecell[rb]{Difference\\(95\% CI)} & \makecell[rb]{Rates, top /\\comparator} \\
+\midrule
+between scientists & other journals & $-$24 to $<$$-$12 & 17.9 (16.2 to 19.9) & 33.9 / 16.1 \\
+between scientists & other journals & $-$12 to $<$0 & 17.0 (15.2 to 18.9) & 33.0 / 16.0 \\
+between scientists & other journals & 0 to $<$12 & 17.1 (15.5 to 19.2) & 32.9 / 15.8 \\
+same scientist, pairs $\geq$ 60 months apart & other journals & $-$24 to $<$$-$12 & 2.8 ($-$5.0 to 11.1) & 34.4 / 31.6 \\
+same scientist, pairs $\geq$ 48 months apart & other journals & $-$12 to $<$0 & $-$2.7 ($-$8.7 to 3.1) & 31.1 / 33.8 \\
+same scientist, pairs $\geq$ 36 months apart & other journals & 0 to $<$12 & 1.5 ($-$3.9 to 7.4) & 36.2 / 34.6 \\
+between scientists & near-top journals & $-$24 to $<$$-$12 & 10.3 (8.1 to 12.8) & 36.2 / 25.8 \\
+between scientists & near-top journals & $-$12 to $<$0 & 9.5 (7.3 to 11.6) & 35.1 / 25.7 \\
+between scientists & near-top journals & 0 to $<$12 & 9.9 (7.9 to 12.2) & 35.1 / 25.2 \\
+same scientist, pairs $\geq$ 60 months apart & near-top journals & $-$24 to $<$$-$12 & 0.4 ($-$10.9 to 11.8) & 50.7 / 50.3 \\
+same scientist, pairs $\geq$ 48 months apart & near-top journals & $-$12 to $<$0 & $-$1.3 ($-$9.6 to 7.0) & 47.9 / 49.2 \\
+same scientist, pairs $\geq$ 36 months apart & near-top journals & 0 to $<$12 & 1.5 ($-$6.1 to 8.8) & 47.6 / 46.1 \\
+between scientists & other journals & 0 to $<$36 & 39.5 (36.6 to 43.4) & 77.2 / 37.7 \\
+same scientist, pairs $\geq$ 36 months apart & other journals & 0 to $<$36 & 1.4 ($-$8.9 to 13.1) & 97.4 / 96.0 \\
+between scientists & near-top journals & 0 to $<$36 & 22.4 (18.7 to 26.7) & 82.1 / 59.7 \\
+same scientist, pairs $\geq$ 36 months apart & near-top journals & 0 to $<$36 & 2.0 ($-$9.9 to 14.4) & 121.8 / 119.8 \\
+\bottomrule
+\end{tabularx}
+\end{table}
+
+\begin{table}[H]
+\centering\small
+\caption{New lead awards per 1,000 index papers by band of the percentile of citation standing, difference from the top band (0.95--1.00) in a linear probability model. Between scientists: topic-year set fixed effects, all index papers. Same scientist: scientist fixed effects and index year, index papers at least 24 months apart.}\label{tab:s_curves}
+\footnotesize
+\begin{tabularx}{\linewidth}{>{\raggedright\arraybackslash}Xrrr}
+\toprule
+Percentile band & \makecell[rb]{Between,\\before} & \makecell[rb]{Between,\\after} & \makecell[rb]{Same\\scientist,\\after} \\
+\midrule
+0.00--0.05 & $-$36.0 ($-$47.7 to $-$22.2) & $-$32.7 ($-$44.0 to $-$20.1) & $-$7.7 ($-$16.8 to 1.2) \\
+0.05--0.10 & $-$41.8 ($-$48.9 to $-$35.1) & $-$39.2 ($-$44.8 to $-$33.2) & $-$4.6 ($-$10.9 to 2.9) \\
+0.10--0.15 & $-$38.3 ($-$45.8 to $-$31.1) & $-$37.4 ($-$43.8 to $-$30.9) & $-$6.7 ($-$13.1 to $-$1.0) \\
+0.15--0.20 & $-$42.0 ($-$48.3 to $-$35.8) & $-$38.2 ($-$44.2 to $-$31.7) & $-$3.9 ($-$10.0 to 1.9) \\
+0.20--0.25 & $-$41.1 ($-$46.8 to $-$35.9) & $-$39.0 ($-$44.0 to $-$33.7) & $-$2.9 ($-$8.6 to 2.8) \\
+0.25--0.30 & $-$41.4 ($-$46.5 to $-$36.7) & $-$39.1 ($-$43.8 to $-$34.5) & $-$3.2 ($-$8.6 to 2.2) \\
+0.30--0.35 & $-$42.8 ($-$47.9 to $-$38.3) & $-$38.7 ($-$43.5 to $-$34.3) & $-$1.8 ($-$6.5 to 3.5) \\
+0.35--0.40 & $-$41.5 ($-$46.5 to $-$36.9) & $-$37.5 ($-$42.2 to $-$33.0) & $-$2.0 ($-$6.9 to 2.9) \\
+0.40--0.45 & $-$41.2 ($-$46.0 to $-$36.7) & $-$37.7 ($-$42.5 to $-$33.5) & $-$3.0 ($-$8.3 to 1.9) \\
+0.45--0.50 & $-$40.4 ($-$45.4 to $-$36.0) & $-$37.3 ($-$41.9 to $-$33.1) & $-$2.8 ($-$7.3 to 2.1) \\
+0.50--0.55 & $-$38.4 ($-$43.2 to $-$33.9) & $-$35.1 ($-$39.7 to $-$30.9) & $-$1.3 ($-$5.9 to 3.2) \\
+0.55--0.60 & $-$36.8 ($-$41.9 to $-$32.3) & $-$35.0 ($-$39.4 to $-$30.5) & $-$1.7 ($-$6.5 to 2.9) \\
+0.60--0.65 & $-$36.0 ($-$40.9 to $-$31.5) & $-$34.2 ($-$38.5 to $-$29.9) & $-$3.2 ($-$8.2 to 1.4) \\
+0.65--0.70 & $-$33.4 ($-$38.0 to $-$28.6) & $-$31.4 ($-$35.9 to $-$27.0) & $-$2.2 ($-$7.2 to 2.5) \\
+0.70--0.75 & $-$31.1 ($-$35.5 to $-$26.4) & $-$29.0 ($-$33.6 to $-$24.7) & $-$3.4 ($-$8.1 to 1.2) \\
+0.75--0.80 & $-$28.6 ($-$33.5 to $-$24.0) & $-$26.5 ($-$31.1 to $-$22.2) & $-$1.1 ($-$6.3 to 3.2) \\
+0.80--0.85 & $-$24.4 ($-$29.5 to $-$20.0) & $-$23.8 ($-$28.3 to $-$19.2) & $-$2.9 ($-$7.9 to 1.8) \\
+0.85--0.90 & $-$21.4 ($-$26.2 to $-$16.5) & $-$20.7 ($-$25.0 to $-$16.1) & $-$2.0 ($-$6.6 to 2.5) \\
+0.90--0.95 & $-$13.6 ($-$17.8 to $-$9.3) & $-$13.2 ($-$17.7 to $-$9.1) & $-$1.5 ($-$6.1 to 2.9) \\
+\bottomrule
+\end{tabularx}
+\end{table}
+\begin{table}[H]
+\centering\small
+\caption{Fits of new lead awards on the percentile of citation standing, with the fixed effects of Table~S6: a straight line, and a line with one break point (knot) chosen by best fit. Slopes per 1,000 index papers for each tenth of the percentile range. Intervals are from 200 bootstrap replicates.}\label{tab:s_hinge}
+\footnotesize
+\begin{tabularx}{\linewidth}{>{\raggedright\arraybackslash}Xrrrr}
+\toprule
+Comparison & Knot & Slope below & Slope above & \makecell[rb]{Straight-line\\slope} \\
+\midrule
+Between scientists, before & 0.825 (0.650 to 0.875) & 1.92 (0.16 to 2.90) & 19.17 (9.97 to 31.54) & 3.95 (3.32 to 4.49) \\
+Between scientists, after & 0.850 (0.724 to 0.900) & 1.89 (0.68 to 2.62) & 21.13 (10.18 to 34.94) & 3.59 (3.06 to 4.18) \\
+Same scientist, after & 0.925 (0.500 to 0.975) & 0.26 ($-$0.24 to 1.47) & 4.53 ($-$23.44 to 57.84) & 0.36 ($-$0.02 to 0.72) \\
+\bottomrule
+\end{tabularx}
+\end{table}
+
+\begin{table}[H]
+\centering\small
+\caption{Same scientist: new lead awards per 1,000 index papers after the top-journal paper minus after the other paper, averaged over the two orders, in the after window unless stated. Pairs are listed as top journal first / top journal second, and the last column gives the difference within each order. Years as last author and awards started before the pair are measured at the earlier paper of the pair. For the top 5\%, award rates after the earlier and the later paper were 68.3 and 61.3 when the top-journal paper came first, and 69.9 and 62.3 when it came second. Averaged over the two orders, the rates were 65.3 after the top-journal paper and 65.6 after the other paper.}\label{tab:s_pairs}
+\footnotesize
+\begin{tabularx}{\linewidth}{>{\raggedright\arraybackslash}Xrrrr}
+\toprule
+Sample & \makecell[rb]{Pairs (first\\/ second)} & \makecell[rb]{Difference\\(95\% CI)} & Risk ratio & \makecell[rb]{By order\\(first /\\second)} \\
+\midrule
+\multicolumn{5}{>{\raggedright\arraybackslash}p{\dimexpr\textwidth-2\tabcolsep\relax}}{\textit{Top 5\% against all other journals}} \\
+All pairs (primary) & 32,859 / 48,226 & $-$0.3 ($-$8.0 to 7.4) & 1.00 (0.88 to 1.12) & 7.0 / $-$7.5 \\
+Years as last author $<5$ & 8,001 / 12,087 & 1.1 ($-$9.5 to 11.3) & 1.02 (0.86 to 1.19) & 3.5 / $-$1.2 \\
+Years as last author 5 to $<10$ & 5,073 / 7,816 & $-$0.0 ($-$12.7 to 12.0) & 1.00 (0.84 to 1.17) & 4.1 / $-$4.2 \\
+Years as last author $\geq 10$ & 19,785 / 28,323 & $-$1.0 ($-$9.5 to 7.8) & 0.99 (0.86 to 1.12) & 9.2 / $-$11.2 \\
+Difference, $<5$ minus $\geq 10$ years &  & 2.1 ($-$7.5 to 11.8) &  &  \\
+No award started in the 60 months before the earlier paper & 28,742 / 42,296 & 0.5 ($-$3.8 to 4.2) & 1.02 (0.88 to 1.14) & 1.0 / $-$0.1 \\
+Award started in the 60 months before the earlier paper & 4,117 / 5,930 & $-$5.8 ($-$29.1 to 19.2) & 0.98 (0.91 to 1.06) & 49.1 / $-$60.7 \\
+Index years to 2020 & 28,340 / 38,948 & 0.3 ($-$7.9 to 8.3) & 1.00 (0.89 to 1.12) & 7.6 / $-$7.0 \\
+Before window, pairs $\geq 60$ months apart & 3,291 / 13,758 & 1.6 ($-$9.5 to 12.3) & 1.03 (0.84 to 1.23) & 1.2 / 2.0 \\
+Pairs $<24$ months apart (windows overlap) & 19,240 / 21,395 & 1.1 ($-$7.6 to 9.9) & 1.01 (0.89 to 1.16) & 5.2 / $-$3.1 \\
+Fixed effects, papers $\geq 24$ months apart &  & 2.4 ($-$1.3 to 6.3) &  &  \\
+All pairs, bootstrap of scientists only & 32,859 / 48,226 & $-$0.3 ($-$2.3 to 1.8) & 1.00 (0.97 to 1.03) & 7.0 / $-$7.5 \\
+Pairs 24 to $<$48 months apart & 25,617 / 25,651 & 0.5 ($-$7.5 to 9.6) &  &  \\
+Pairs $\geq$48 months apart & 7,242 / 22,575 & 0.6 ($-$8.1 to 11.1) &  &  \\
+Standardized by the years of both papers, field, years as last author, and prior funding &  & 1.8 ($-$2.9 to 6.7) &  &  \\
+\multicolumn{5}{>{\raggedright\arraybackslash}p{\dimexpr\textwidth-2\tabcolsep\relax}}{\textit{Other definitions of a top journal, against all other journals}} \\
+Top 10\% & 58,462 / 77,888 & 1.8 ($-$4.1 to 7.2) & 1.03 (0.92 to 1.14) & 9.6 / $-$6.0 \\
+Top 25\% & 96,418 / 105,941 & 2.4 ($-$1.6 to 6.4) & 1.04 (0.95 to 1.14) & 8.3 / $-$3.4 \\
+Most cited journal & 1,116 / 1,603 & $-$0.5 ($-$32.3 to 50.3) & 1.01 (0.58 to 1.81) & 7.2 / $-$8.1 \\
+\multicolumn{5}{>{\raggedright\arraybackslash}p{\dimexpr\textwidth-2\tabcolsep\relax}}{\textit{Top 5\% against near-top journals}} \\
+All pairs (primary) & 21,510 / 22,757 & $-$0.6 ($-$8.7 to 8.1) & 0.99 (0.90 to 1.10) & 9.5 / $-$10.7 \\
+Years as last author $<5$ & 4,412 / 4,782 & 1.3 ($-$13.1 to 16.0) & 1.01 (0.85 to 1.22) & 3.4 / $-$0.8 \\
+Years as last author 5 to $<10$ & 3,348 / 3,728 & $-$7.0 ($-$23.0 to 8.9) & 0.93 (0.78 to 1.09) & $-$3.6 / $-$10.5 \\
+Years as last author $\geq 10$ & 13,750 / 14,247 & 0.3 ($-$9.6 to 10.0) & 1.01 (0.88 to 1.13) & 14.7 / $-$14.0 \\
+No award started in the 60 months before the earlier paper & 17,971 / 19,199 & $-$0.9 ($-$5.5 to 3.8) & 0.98 (0.86 to 1.10) & $-$0.4 / $-$1.5 \\
+Before window, pairs $\geq 60$ months apart & 4,076 / 4,834 & $-$0.6 ($-$15.8 to 13.9) & 0.99 (0.84 to 1.16) & 1.2 / $-$2.5 \\
+Pairs 24 to $<$48 months apart & 13,714 / 13,909 & $-$1.3 ($-$11.2 to 8.6) &  &  \\
+Pairs $\geq$48 months apart & 7,796 / 8,848 & 0.9 ($-$10.9 to 12.6) &  &  \\
+Standardized by the years of both papers, field, years as last author, and prior funding &  & $-$0.9 ($-$6.7 to 4.4) &  &  \\
+Near-top band 0.90 to $<$0.95 & 15,288 / 14,829 & $-$1.3 ($-$11.2 to 9.3) & 0.98 (0.88 to 1.11) & 10.1 / $-$12.7 \\
+\bottomrule
+\end{tabularx}
+\end{table}
+
+\begin{table}[H]
+\centering\small
+\caption{Same scientist: description of the pairs in each order, measured at the earlier paper of the pair.}\label{tab:s_pairs_profile}
+\footnotesize
+\begin{tabularx}{\linewidth}{>{\raggedright\arraybackslash}Xlrrrrrr}
+\toprule
+Comparator & Order & Pairs & \makecell[rb]{$<$5 years as\\last author\\(\%)} & \makecell[rb]{$\geq$10\\years (\%)} & \makecell[rb]{Award started\\in prior 60\\months (\%)} & \makecell[rb]{Median months\\apart} & \makecell[rb]{Mean year of\\earlier paper} \\
+\midrule
+other journals & top journal first & 32,859 & 24.3 & 60.2 & 12.5 & 35.3 & 2015.2 \\
+other journals & top journal second & 48,226 & 25.1 & 58.7 & 12.3 & 46.3 & 2014.7 \\
+near-top journals & top journal first & 21,510 & 20.5 & 63.9 & 16.5 & 40.7 & 2015.3 \\
+near-top journals & top journal second & 22,757 & 21.0 & 62.6 & 15.6 & 42.0 & 2015.2 \\
+\bottomrule
+\end{tabularx}
+\end{table}
+
+\begin{table}[H]
+\centering\small
+\caption{By field (OpenAlex domain of the paper's primary topic): same-scientist difference for the top 5\% in the after window (per 1,000 index papers), and straight-line slopes per tenth of the percentile of citation standing between scientists (after window) and for the same scientist.}\label{tab:s_fields}
+\footnotesize
+\begin{tabularx}{\linewidth}{>{\raggedright\arraybackslash}Xrrrr}
+\toprule
+Field & Pairs & \makecell[rb]{Same\\scientist,\\top 5\%} & \makecell[rb]{Slope,\\between\\scientists} & \makecell[rb]{Slope, same\\scientist} \\
+\midrule
+Health Sciences & 22,770 & 0.9 ($-$7.2 to 9.8) & 2.45 (1.94 to 2.89) & 0.24 ($-$0.35 to 0.74) \\
+Life Sciences & 15,203 & 2.3 ($-$12.6 to 16.1) & 4.98 (3.77 to 6.22) & 0.44 ($-$0.65 to 1.65) \\
+Physical Sciences & 25,525 & $-$3.6 ($-$13.4 to 5.3) & 4.46 (3.45 to 5.34) & 0.09 ($-$0.66 to 0.89) \\
+Social Sciences & 8,885 & 2.4 ($-$6.9 to 12.1) & 2.15 (1.78 to 2.61) & 0.48 ($-$0.56 to 1.45) \\
+\bottomrule
+\end{tabularx}
+\end{table}
+
+\begin{table}[H]
+\centering\small
+\caption{First top-journal paper (top 5\%), index years 2017--2020: matched difference in new lead awards per 1,000 index papers, first top-journal paper minus matched comparison papers, in the after and before windows, and their difference. The all-researchers rows apply the same matching without the restriction to researchers with no earlier top-journal paper.}\label{tab:s_first}
+\footnotesize
+\begin{tabularx}{\linewidth}{>{\raggedright\arraybackslash}Xrrrrrr}
+\toprule
+Sample & \makecell[rb]{Top-journal /\\comparison\\papers} & \makecell[rb]{Top-journal\\papers\\matched (\%)} & \makecell[rb]{Rates before\\matching,\\after window\\(top-journal\\/ comparison)} & After window & Before window & \makecell[rb]{After minus\\before} \\
+\midrule
+\multicolumn{7}{>{\raggedright\arraybackslash}p{\dimexpr\textwidth-2\tabcolsep\relax}}{\textit{Against all other journals}} \\
+No earlier top-journal paper & \makecell[rt]{26,911 /\\619,260} & 98.3 & 16.0 / 10.8 & \makecell[rt]{3.3\\(0.6 to 6.0)} & \makecell[rt]{3.1\\(0.2 to 5.9)} & \makecell[rt]{0.2\\($-$3.5 to 3.6)} \\
+Comparison researchers without a top-journal paper in the next 36 months & \makecell[rt]{26,911 /\\557,696} & 98.1 & 16.0 / 9.3 & \makecell[rt]{3.8\\(1.1 to 6.6)} & \makecell[rt]{3.6\\(0.7 to 6.6)} & \makecell[rt]{0.2\\($-$3.6 to 3.6)} \\
+All researchers (matched between scientists) & \makecell[rt]{93,854 /\\1,024,290} & 98.7 & 58.2 / 26.0 & \makecell[rt]{8.5\\(5.1 to 12.1)} & \makecell[rt]{9.1\\(5.6 to 13.0)} & \makecell[rt]{$-$0.5\\($-$4.0 to 3.2)} \\
+No earlier top-journal paper, $<5$ years as last author & \makecell[rt]{11,191 /\\253,716} & 98.5 & 9.9 / 6.2 & \makecell[rt]{2.9\\($-$0.1 to 6.5)} & \makecell[rt]{2.3\\($-$0.7 to 5.8)} & \makecell[rt]{0.6\\($-$3.8 to 4.6)} \\
+No earlier top-journal paper, 5 to $<10$ years & \makecell[rt]{3,548 /\\82,019} & 95.7 & 21.4 / 14.4 & \makecell[rt]{6.5\\($-$0.9 to 16.4)} & \makecell[rt]{4.8\\($-$3.3 to 14.2)} & \makecell[rt]{1.7\\($-$10.0 to 13.2)} \\
+No earlier top-journal paper, $\geq 10$ years & \makecell[rt]{12,172 /\\283,525} & 98.8 & 20.0 / 13.8 & \makecell[rt]{2.6\\($-$1.5 to 7.2)} & \makecell[rt]{3.2\\($-$1.5 to 8.2)} & \makecell[rt]{$-$0.6\\($-$6.6 to 5.4)} \\
+\multicolumn{7}{>{\raggedright\arraybackslash}p{\dimexpr\textwidth-2\tabcolsep\relax}}{\textit{Against near-top journals}} \\
+No earlier top-journal paper & \makecell[rt]{26,911 /\\83,993} & 91.6 & 16.0 / 16.7 & \makecell[rt]{1.6\\($-$1.1 to 4.6)} & \makecell[rt]{1.3\\($-$1.5 to 4.4)} & \makecell[rt]{0.3\\($-$3.6 to 3.9)} \\
+Comparison researchers without a top-journal paper in the next 36 months & \makecell[rt]{26,911 /\\70,970} & 90.5 & 16.0 / 14.5 & \makecell[rt]{2.6\\($-$0.2 to 5.5)} & \makecell[rt]{1.9\\($-$0.8 to 5.0)} & \makecell[rt]{0.6\\($-$2.8 to 4.1)} \\
+All researchers (matched between scientists) & \makecell[rt]{93,854 /\\193,354} & 95.1 & 58.2 / 41.6 & \makecell[rt]{4.7\\(1.1 to 8.6)} & \makecell[rt]{5.4\\(1.8 to 9.0)} & \makecell[rt]{$-$0.7\\($-$4.9 to 4.0)} \\
+No earlier top-journal paper, $<5$ years as last author & \makecell[rt]{11,191 /\\31,226} & 92.4 & 9.9 / 10.1 & \makecell[rt]{2.0\\($-$1.4 to 5.8)} & \makecell[rt]{1.2\\($-$2.1 to 5.2)} & \makecell[rt]{0.8\\($-$3.4 to 5.4)} \\
+No earlier top-journal paper, 5 to $<10$ years & \makecell[rt]{3,548 /\\11,609} & 82.1 & 21.4 / 22.4 & \makecell[rt]{1.0\\($-$8.7 to 12.6)} & \makecell[rt]{$-$0.4\\($-$10.9 to 10.2)} & \makecell[rt]{1.3\\($-$11.5 to 14.5)} \\
+No earlier top-journal paper, $\geq 10$ years & \makecell[rt]{12,172 /\\41,158} & 93.6 & 20.0 / 20.2 & \makecell[rt]{1.4\\($-$3.0 to 6.6)} & \makecell[rt]{1.9\\($-$3.0 to 7.2)} & \makecell[rt]{$-$0.5\\($-$6.7 to 6.4)} \\
+\bottomrule
+\end{tabularx}
+\end{table}
+
+\begin{table}[H]
+\centering\small
+\caption{First top-journal paper: matched difference in new lead awards per 1,000 index papers in other windows and design variants (the before and after windows of the primary comparison are in Table~S11).}\label{tab:s_first_checks}
+\footnotesize
+\begin{tabularx}{\linewidth}{l>{\raggedright\arraybackslash}Xlrr}
+\toprule
+Comparator & Variant & \makecell[lb]{Window\\(months)} & \makecell[rb]{Top-journal /\\comparison\\papers} & \makecell[rb]{Difference\\(95\% CI)} \\
+\midrule
+other journals & No earlier top-journal paper & $-$24 to $<$$-$12 & 26,911 / 619,260 & 2.0 ($-$0.0 to 4.4) \\
+other journals & No earlier top-journal paper & $-$12 to $<$0 & 26,911 / 619,260 & 1.0 ($-$1.2 to 3.1) \\
+other journals & No earlier top-journal paper & 0 to $<$12 & 26,911 / 619,260 & 1.2 ($-$0.7 to 3.6) \\
+other journals & No earlier top-journal paper & 0 to $<$36 & 26,911 / 619,260 & 3.8 (0.6 to 7.3) \\
+other journals & Highest earlier percentile of citation standing from years $t-5$ to $t-3$ & $-$24 to $<$0 & 26,911 / 619,260 & 3.2 (0.2 to 6.1) \\
+other journals & Highest earlier percentile of citation standing from years $t-5$ to $t-3$ & +12 to $<$36 & 26,911 / 619,260 & 3.2 (0.5 to 6.0) \\
+other journals & First OpenAlex paper 2009 or later & $-$24 to $<$0 & 7,085 / 154,750 & 1.0 ($-$1.7 to 4.3) \\
+other journals & First OpenAlex paper 2009 or later & +12 to $<$36 & 7,085 / 154,750 & 1.8 ($-$1.0 to 5.5) \\
+near-top journals & No earlier top-journal paper & $-$24 to $<$$-$12 & 26,911 / 83,993 & 1.0 ($-$1.1 to 3.3) \\
+near-top journals & No earlier top-journal paper & $-$12 to $<$0 & 26,911 / 83,993 & 0.1 ($-$2.3 to 2.4) \\
+near-top journals & No earlier top-journal paper & 0 to $<$12 & 26,911 / 83,993 & 0.4 ($-$1.6 to 2.8) \\
+near-top journals & No earlier top-journal paper & 0 to $<$36 & 26,911 / 83,993 & 1.7 ($-$1.5 to 5.5) \\
+near-top journals & Highest earlier percentile of citation standing from years $t-5$ to $t-3$ & $-$24 to $<$0 & 26,911 / 83,993 & 1.2 ($-$1.8 to 4.3) \\
+near-top journals & Highest earlier percentile of citation standing from years $t-5$ to $t-3$ & +12 to $<$36 & 26,911 / 83,993 & 1.4 ($-$1.6 to 4.6) \\
+near-top journals & First OpenAlex paper 2009 or later & $-$24 to $<$0 & 7,085 / 18,472 & 0.4 ($-$2.5 to 3.7) \\
+near-top journals & First OpenAlex paper 2009 or later & +12 to $<$36 & 7,085 / 18,472 & 1.3 ($-$1.6 to 4.8) \\
+\bottomrule
+\end{tabularx}
+\end{table}

@@ -1,0 +1,17 @@
+group,reference_awards,recall
+all papers: top 5%,190676,0.3969508485598607
+all papers: other journals,858969,0.37013326441350036
+all papers: near-top journals,246824,0.3863684244643957
+years as last author <5: top 5%,35283,0.37491143043392
+years as last author <5: other journals,158301,0.35772357723577236
+years as last author 5 to <10: top 5%,31120,0.388560411311054
+years as last author 5 to <10: other journals,136807,0.36577806691178083
+years as last author >=10: top 5%,124273,0.405309278765299
+years as last author >=10: other journals,563861,0.3746739001278684
+"same-scientist pairs, top journal first: top-journal paper",37118,0.3810550137399644
+"same-scientist pairs, top journal first: other paper",34637,0.39221064179923204
+"same-scientist pairs, top journal second: top-journal paper",54496,0.3897717263652378
+"same-scientist pairs, top journal second: other paper",58152,0.3756534598981978
+"first top-journal paper (2017-2020, no earlier top-journal paper)",6519,0.32888479828194506
+"comparison papers, other journals (2017-2020, no earlier top-journal paper)",91771,0.35518845822754463
+"comparison papers, near-top journals (2017-2020, no earlier top-journal paper)",19910,0.3575590155700653

@@ -1,0 +1,17 @@
+group,window,paper_windows_with_reference,detected
+all papers: top 5%,before window,21512,0.4696913350687988
+all papers: top 5%,after window,20226,0.4454662315831108
+all papers: other journals,before window,108683,0.4473376701048002
+all papers: other journals,after window,101203,0.41724059563451676
+all papers: near-top journals,before window,32213,0.46490547294570517
+all papers: near-top journals,after window,29928,0.4370489174017642
+same-scientist pairs: top-journal paper,before window,10348,0.4622149207576343
+same-scientist pairs: top-journal paper,after window,10298,0.433190910856477
+same-scientist pairs: other paper,before window,10000,0.4701
+same-scientist pairs: other paper,after window,10732,0.43197912784196796
+first top-journal paper (2017-2020),before window,946,0.42071881606765327
+first top-journal paper (2017-2020),after window,903,0.37320044296788485
+"comparison papers, other journals (2017-2020)",before window,13575,0.4289502762430939
+"comparison papers, other journals (2017-2020)",after window,12429,0.3977793869176925
+"comparison papers, near-top journals (2017-2020)",before window,2992,0.43081550802139035
+"comparison papers, near-top journals (2017-2020)",after window,2747,0.4004368401892974
