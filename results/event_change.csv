@@ -1,0 +1,298 @@
+cc,sample,cells,comparator,after_window,correction,measure,estimate,lo,hi,treated_trials,control_trials,scientists
+US,"US 2014-2021, last authors",month A,all other journals,months 12..35,none,"rate treated, before",0.023432321357550048,0.020720769706331844,0.026492565261389066,60344,574918,343843
+US,"US 2014-2021, last authors",month A,all other journals,months 12..35,none,"rate control, before",0.019044154340337092,0.017212641306441075,0.02112121550028524,60344,574918,343843
+US,"US 2014-2021, last authors",month A,all other journals,months 12..35,none,"rate treated, after",0.021410579345088162,0.018658597188648575,0.0247573345346151,60344,574918,343843
+US,"US 2014-2021, last authors",month A,all other journals,months 12..35,none,"rate control, after",0.017182348222304127,0.015431144309215637,0.019222338882740775,60344,574918,343843
+US,"US 2014-2021, last authors",month A,all other journals,months 12..35,none,difference before,0.004388167017212955,0.0019711393520948296,0.006822045006054845,60344,574918,343843
+US,"US 2014-2021, last authors",month A,all other journals,months 12..35,none,difference after,0.004228231122784035,0.0018941962376986447,0.006725401159476079,60344,574918,343843
+US,"US 2014-2021, last authors",month A,all other journals,months 12..35,none,change (after minus before),-0.00015993589442891976,-0.0031088608690116675,0.002746056303449306,60344,574918,343843
+US,"US 2014-2021, last authors",month A,all other journals,months 12..35,none,risk ratio before,1.2304206812648255,1.1014116804048275,1.3661056535046923,60344,574918,343843
+US,"US 2014-2021, last authors",month A,all other journals,months 12..35,none,risk ratio after,1.2460799343651665,1.1061628256167397,1.3981159733977908,60344,574918,343843
+US,"US 2014-2021, last authors",month A,all other journals,months 12..35,none,ratio of risk ratios (after / before),1.0127267473139705,0.8801647857221897,1.166349030279338,60344,574918,343843
+US,"US 2014-2021, last authors",month A,all other journals,months 12..35,none,change / control after-window rate,-0.0093081511537119,-0.17721825877264308,0.16627564061654831,60344,574918,343843
+US,"US 2014-2021, last authors",month A,all other journals,months 12..35,detection,"rate treated, before",0.0598549747143785,0.05231271408860338,0.06803459091885543,60344,574918,343843
+US,"US 2014-2021, last authors",month A,all other journals,months 12..35,detection,"rate control, before",0.055146024995848475,0.04972017730601789,0.061016627706025464,60344,574918,343843
+US,"US 2014-2021, last authors",month A,all other journals,months 12..35,detection,"rate treated, after",0.059303419389451446,0.05110008850009824,0.06836994188572465,60344,574918,343843
+US,"US 2014-2021, last authors",month A,all other journals,months 12..35,detection,"rate control, after",0.052969920434972784,0.04748283780031369,0.059834620015702916,60344,574918,343843
+US,"US 2014-2021, last authors",month A,all other journals,months 12..35,detection,difference before,0.004708949718530024,-0.0020660674195564772,0.011768368657230643,60344,574918,343843
+US,"US 2014-2021, last authors",month A,all other journals,months 12..35,detection,difference after,0.006333498954478663,-0.0008941048380613647,0.01367888212818476,60344,574918,343843
+US,"US 2014-2021, last authors",month A,all other journals,months 12..35,detection,change (after minus before),0.0016245492359486385,-0.007157734277886824,0.011016221429187525,60344,574918,343843
+US,"US 2014-2021, last authors",month A,all other journals,months 12..35,detection,risk ratio before,1.0853905556907235,0.9631323259737536,1.2193635036719488,60344,574918,343843
+US,"US 2014-2021, last authors",month A,all other journals,months 12..35,detection,risk ratio after,1.1195678396808963,0.9837562752318626,1.2674326081204306,60344,574918,343843
+US,"US 2014-2021, last authors",month A,all other journals,months 12..35,detection,ratio of risk ratios (after / before),1.0314884663506427,0.8849566166962403,1.2078057781186142,60344,574918,343843
+US,"US 2014-2021, last authors",month A,all other journals,months 12..35,detection,change / control after-window rate,0.030669278386834208,-0.1388223044546364,0.20978560945123978,60344,574918,343843
+US,"US 2014-2021, last authors",month A,all other journals,months 36..59,none,"rate treated, before",0.024827803538468463,0.0217468208480518,0.02830259583801517,44426,428461,267163
+US,"US 2014-2021, last authors",month A,all other journals,months 36..59,none,"rate control, before",0.020762349971991067,0.01859288185466033,0.023239090481345655,44426,428461,267163
+US,"US 2014-2021, last authors",month A,all other journals,months 36..59,none,"rate treated, after",0.019425561608067347,0.016719561907830634,0.02243782939635457,44426,428461,267163
+US,"US 2014-2021, last authors",month A,all other journals,months 36..59,none,"rate control, after",0.015884639307413597,0.01411478154686936,0.017833046137095614,44426,428461,267163
+US,"US 2014-2021, last authors",month A,all other journals,months 36..59,none,difference before,0.004065453566477396,0.00147838839439977,0.006853605711167838,44426,428461,267163
+US,"US 2014-2021, last authors",month A,all other journals,months 36..59,none,difference after,0.0035409223006537503,0.0008982277494007186,0.006252019469825303,44426,428461,267163
+US,"US 2014-2021, last authors",month A,all other journals,months 36..59,none,change (after minus before),-0.000524531265823646,-0.003883314004889614,0.002902451837638601,44426,428461,267163
+US,"US 2014-2021, last authors",month A,all other journals,months 36..59,none,risk ratio before,1.1958089316460707,1.0677830985334242,1.3405716082760126,44426,428461,267163
+US,"US 2014-2021, last authors",month A,all other journals,months 36..59,none,risk ratio after,1.2229148696502758,1.0588176760002421,1.4023317558667523,44426,428461,267163
+US,"US 2014-2021, last authors",month A,all other journals,months 36..59,none,ratio of risk ratios (after / before),1.0226674490270724,0.8709893125221032,1.2030342168533468,44426,428461,267163
+US,"US 2014-2021, last authors",month A,all other journals,months 36..59,none,change / control after-window rate,-0.03302128903731793,-0.23365762588287256,0.18214858187064414,44426,428461,267163
+US,"US 2014-2021, last authors",month A,all other journals,months 36..59,detection,"rate treated, before",0.06475205313653441,0.05637903028399015,0.07440647396862546,44426,428461,267163
+US,"US 2014-2021, last authors",month A,all other journals,months 36..59,detection,"rate control, before",0.05909440250918208,0.05260095373707485,0.06616278347142497,44426,428461,267163
+US,"US 2014-2021, last authors",month A,all other journals,months 36..59,detection,"rate treated, after",0.057937373704410475,0.049651023589948384,0.06799280958504063,44426,428461,267163
+US,"US 2014-2021, last authors",month A,all other journals,months 36..59,detection,"rate control, after",0.05258516048472981,0.04659845744175444,0.059385854958373674,44426,428461,267163
+US,"US 2014-2021, last authors",month A,all other journals,months 36..59,detection,difference before,0.00565765062735233,-0.0023271742100677457,0.014124329768914718,44426,428461,267163
+US,"US 2014-2021, last authors",month A,all other journals,months 36..59,detection,difference after,0.005352213219680664,-0.0034554482091395003,0.014430237426105465,44426,428461,267163
+US,"US 2014-2021, last authors",month A,all other journals,months 36..59,detection,change (after minus before),-0.00030543740767166594,-0.011665327161150983,0.010658819354673414,44426,428461,267163
+US,"US 2014-2021, last authors",month A,all other journals,months 36..59,detection,risk ratio before,1.095739196728036,0.961821685712312,1.2424960559116902,44426,428461,267163
+US,"US 2014-2021, last authors",month A,all other journals,months 36..59,detection,risk ratio after,1.1017818177284995,0.9382921552151073,1.2923104978597615,44426,428461,267163
+US,"US 2014-2021, last authors",month A,all other journals,months 36..59,detection,ratio of risk ratios (after / before),1.0055146525911522,0.83684216826802,1.2057302005870465,44426,428461,267163
+US,"US 2014-2021, last authors",month A,all other journals,months 36..59,detection,change / control after-window rate,-0.0058084334982748944,-0.2161654329261714,0.20458183660033047,44426,428461,267163
+US,"US 2014-2021, last authors",month A,all other journals,months 60..83,none,"rate treated, before",0.027262259550257382,0.023273585206474136,0.031234442246455982,29528,298960,200662
+US,"US 2014-2021, last authors",month A,all other journals,months 60..83,none,"rate control, before",0.022941898927488075,0.020155607489846458,0.025753106790901953,29528,298960,200662
+US,"US 2014-2021, last authors",month A,all other journals,months 60..83,none,"rate treated, after",0.01896505012191818,0.01561186998021864,0.02245135970620882,29528,298960,200662
+US,"US 2014-2021, last authors",month A,all other journals,months 60..83,none,"rate control, after",0.01490189647580241,0.01283478828748079,0.016989385047488943,29528,298960,200662
+US,"US 2014-2021, last authors",month A,all other journals,months 60..83,none,difference before,0.004320360622769307,0.0006561661815611414,0.007865251216351093,29528,298960,200662
+US,"US 2014-2021, last authors",month A,all other journals,months 60..83,none,difference after,0.004063153646115772,0.00078592288407285,0.007500329966415478,29528,298960,200662
+US,"US 2014-2021, last authors",month A,all other journals,months 60..83,none,change (after minus before),-0.00025720697665353523,-0.0046249403760532035,0.004004700951892545,29528,298960,200662
+US,"US 2014-2021, last authors",month A,all other journals,months 60..83,none,risk ratio before,1.1883174813220374,1.0303112862263466,1.3498623776626668,29528,298960,200662
+US,"US 2014-2021, last authors",month A,all other journals,months 60..83,none,risk ratio after,1.2726601713220522,1.048048807464762,1.5288293578862944,29528,298960,200662
+US,"US 2014-2021, last authors",month A,all other journals,months 60..83,none,ratio of risk ratios (after / before),1.0709765625144059,0.8617604104810175,1.31818888728558,29528,298960,200662
+US,"US 2014-2021, last authors",month A,all other journals,months 60..83,none,change / control after-window rate,-0.017260016338939546,-0.30211090801980106,0.2920596166194417,29528,298960,200662
+US,"US 2014-2021, last authors",month A,all other journals,months 60..83,detection,"rate treated, before",0.07047119335667493,0.059450314192536095,0.08216099811982,29528,298960,200662
+US,"US 2014-2021, last authors",month A,all other journals,months 60..83,detection,"rate control, before",0.06350610109489528,0.055439660875135695,0.07110577227906097,29528,298960,200662
+US,"US 2014-2021, last authors",month A,all other journals,months 60..83,detection,"rate treated, after",0.054508537316704166,0.04383754985615628,0.06544543024852362,29528,298960,200662
+US,"US 2014-2021, last authors",month A,all other journals,months 60..83,detection,"rate control, after",0.05078042509410943,0.043942244862681626,0.057974987896888125,29528,298960,200662
+US,"US 2014-2021, last authors",month A,all other journals,months 60..83,detection,difference before,0.006965092261779646,-0.002829354660895499,0.017352667491542018,29528,298960,200662
+US,"US 2014-2021, last authors",month A,all other journals,months 60..83,detection,difference after,0.003728112222594733,-0.006850396893561797,0.015108674550675938,29528,298960,200662
+US,"US 2014-2021, last authors",month A,all other journals,months 60..83,detection,change (after minus before),-0.0032369800391849127,-0.017111743696252495,0.010550890314929704,29528,298960,200662
+US,"US 2014-2021, last authors",month A,all other journals,months 60..83,detection,risk ratio before,1.1096759546200436,0.9554494353251645,1.2740703031776475,29528,298960,200662
+US,"US 2014-2021, last authors",month A,all other journals,months 60..83,detection,risk ratio after,1.0734163255956515,0.8700837449761707,1.3189191621747978,29528,298960,200662
+US,"US 2014-2021, last authors",month A,all other journals,months 60..83,detection,ratio of risk ratios (after / before),0.967324128387726,0.7493940520651784,1.2183620171982479,29528,298960,200662
+US,"US 2014-2021, last authors",month A,all other journals,months 60..83,detection,change / control after-window rate,-0.06374464241262141,-0.3342469804429546,0.21865431017213183,29528,298960,200662
+US,"US 2014-2021, last authors",quarter A,all other journals,months 12..35,none,"rate treated, before",0.024717348927875242,0.02198390474541236,0.027651183038862458,64125,793518,431344
+US,"US 2014-2021, last authors",quarter A,all other journals,months 12..35,none,"rate control, before",0.02033932356797524,0.018485992514466417,0.02227966299057442,64125,793518,431344
+US,"US 2014-2021, last authors",quarter A,all other journals,months 12..35,none,"rate treated, after",0.022487329434697854,0.01959605028882051,0.025833413548032643,64125,793518,431344
+US,"US 2014-2021, last authors",quarter A,all other journals,months 12..35,none,"rate control, after",0.018590632783578753,0.016825734947054343,0.02044573210966304,64125,793518,431344
+US,"US 2014-2021, last authors",quarter A,all other journals,months 12..35,none,difference before,0.004378025359900003,0.002191340866689854,0.006582172473111224,64125,793518,431344
+US,"US 2014-2021, last authors",quarter A,all other journals,months 12..35,none,difference after,0.003896696651119101,0.0016301931696221514,0.006595086467099955,64125,793518,431344
+US,"US 2014-2021, last authors",quarter A,all other journals,months 12..35,none,change (after minus before),-0.00048132870878090164,-0.0031596757725188634,0.0023264137120345384,64125,793518,431344
+US,"US 2014-2021, last authors",quarter A,all other journals,months 12..35,none,risk ratio before,1.2152493098046442,1.1034717378040169,1.3304800270423789,64125,793518,431344
+US,"US 2014-2021, last authors",quarter A,all other journals,months 12..35,none,risk ratio after,1.2096053801117024,1.086346078339577,1.3530596925375606,64125,793518,431344
+US,"US 2014-2021, last authors",quarter A,all other journals,months 12..35,none,ratio of risk ratios (after / before),0.9953557433463187,0.8773331762416727,1.1257431728114298,64125,793518,431344
+US,"US 2014-2021, last authors",quarter A,all other journals,months 12..35,none,change / control after-window rate,-0.02589092659643425,-0.17016944827458064,0.1261874819181191,64125,793518,431344
+US,"US 2014-2021, last authors",quarter A,all other journals,months 12..35,detection,"rate treated, before",0.06051354120919338,0.05314139919071139,0.06849175077139749,64125,793518,431344
+US,"US 2014-2021, last authors",quarter A,all other journals,months 12..35,detection,"rate control, before",0.054107694467388126,0.04895981044789095,0.059651861274735915,64125,793518,431344
+US,"US 2014-2021, last authors",quarter A,all other journals,months 12..35,detection,"rate treated, after",0.06035359045522697,0.05254600733732589,0.06976134752741076,64125,793518,431344
+US,"US 2014-2021, last authors",quarter A,all other journals,months 12..35,detection,"rate control, after",0.0528075556878513,0.04785816869988896,0.05819819644271068,64125,793518,431344
+US,"US 2014-2021, last authors",quarter A,all other journals,months 12..35,detection,difference before,0.006405846741805256,0.0005505107015451017,0.012727516598104976,64125,793518,431344
+US,"US 2014-2021, last authors",quarter A,all other journals,months 12..35,detection,difference after,0.00754603476737567,0.0007375292066293556,0.015220823246300362,64125,793518,431344
+US,"US 2014-2021, last authors",quarter A,all other journals,months 12..35,detection,change (after minus before),0.0011401880255704142,-0.007384098495414766,0.009276086970136807,64125,793518,431344
+US,"US 2014-2021, last authors",quarter A,all other journals,months 12..35,detection,risk ratio before,1.1183906800106997,1.0089559781901851,1.236798968945466,64125,793518,431344
+US,"US 2014-2021, last authors",quarter A,all other journals,months 12..35,detection,risk ratio after,1.1428968765754042,1.0139614598498192,1.2860822830959027,64125,793518,431344
+US,"US 2014-2021, last authors",quarter A,all other journals,months 12..35,detection,ratio of risk ratios (after / before),1.0219120178688095,0.8874819607401286,1.1715774790968765,64125,793518,431344
+US,"US 2014-2021, last authors",quarter A,all other journals,months 12..35,detection,change / control after-window rate,0.02159138045150462,-0.13653089686735934,0.177709657211841,64125,793518,431344
+US,"US 2014-2021, last authors",quarter A,all other journals,months 36..59,none,"rate treated, before",0.02601670836690556,0.02293829072989136,0.029749236776650083,47162,586957,335256
+US,"US 2014-2021, last authors",quarter A,all other journals,months 36..59,none,"rate control, before",0.02206506426114393,0.01984338130032462,0.024432575317259682,47162,586957,335256
+US,"US 2014-2021, last authors",quarter A,all other journals,months 36..59,none,"rate treated, after",0.020503795428522962,0.017722321916774208,0.023573869401546748,47162,586957,335256
+US,"US 2014-2021, last authors",quarter A,all other journals,months 36..59,none,"rate control, after",0.01641511265591026,0.0148152768197665,0.01837843030983324,47162,586957,335256
+US,"US 2014-2021, last authors",quarter A,all other journals,months 36..59,none,difference before,0.003951644105761629,0.0013862424792820298,0.006837986666792591,47162,586957,335256
+US,"US 2014-2021, last authors",quarter A,all other journals,months 36..59,none,difference after,0.004088682772612703,0.0014918601252149007,0.006702637550047023,47162,586957,335256
+US,"US 2014-2021, last authors",quarter A,all other journals,months 36..59,none,change (after minus before),0.0001370386668510734,-0.0033303229085465107,0.0030593814227234638,47162,586957,335256
+US,"US 2014-2021, last authors",quarter A,all other journals,months 36..59,none,risk ratio before,1.1790905323906256,1.0605928335961652,1.3157589699295298,47162,586957,335256
+US,"US 2014-2021, last authors",quarter A,all other journals,months 36..59,none,risk ratio after,1.249080396724574,1.0895421715531086,1.4039493085940904,47162,586957,335256
+US,"US 2014-2021, last authors",quarter A,all other journals,months 36..59,none,ratio of risk ratios (after / before),1.0593591945751977,0.906311649752652,1.2106656242034197,47162,586957,335256
+US,"US 2014-2021, last authors",quarter A,all other journals,months 36..59,none,change / control after-window rate,0.008348323263059218,-0.19525539208914805,0.19041410509540502,47162,586957,335256
+US,"US 2014-2021, last authors",quarter A,all other journals,months 36..59,detection,"rate treated, before",0.06545965587030747,0.05724025558817738,0.07540352056709353,47162,586957,335256
+US,"US 2014-2021, last authors",quarter A,all other journals,months 36..59,detection,"rate control, before",0.05794535537306433,0.05213727136821857,0.06401547898317694,47162,586957,335256
+US,"US 2014-2021, last authors",quarter A,all other journals,months 36..59,detection,"rate treated, after",0.05929913467354404,0.050662695499158646,0.06861137074863996,47162,586957,335256
+US,"US 2014-2021, last authors",quarter A,all other journals,months 36..59,detection,"rate control, after",0.05022140175601208,0.04496227914300546,0.056422656939043754,47162,586957,335256
+US,"US 2014-2021, last authors",quarter A,all other journals,months 36..59,detection,difference before,0.007514300497243137,0.0004333773066153391,0.015933544047986796,47162,586957,335256
+US,"US 2014-2021, last authors",quarter A,all other journals,months 36..59,detection,difference after,0.009077732917531965,0.0010383092208257432,0.01674408422692266,47162,586957,335256
+US,"US 2014-2021, last authors",quarter A,all other journals,months 36..59,detection,change (after minus before),0.001563432420288828,-0.009433339259196356,0.010904858321464301,47162,586957,335256
+US,"US 2014-2021, last authors",quarter A,all other journals,months 36..59,detection,risk ratio before,1.1296790821087297,1.006806627731247,1.2725644535922407,47162,586957,335256
+US,"US 2014-2021, last authors",quarter A,all other journals,months 36..59,detection,risk ratio after,1.18075427208571,1.0204849435890864,1.3427377953230122,47162,586957,335256
+US,"US 2014-2021, last authors",quarter A,all other journals,months 36..59,detection,ratio of risk ratios (after / before),1.0452121233241216,0.8705684825384569,1.2217282926785458,47162,586957,335256
+US,"US 2014-2021, last authors",quarter A,all other journals,months 36..59,detection,change / control after-window rate,0.031130800129481995,-0.17931694813570187,0.2245342011533119,47162,586957,335256
+US,"US 2014-2021, last authors",quarter A,all other journals,months 60..83,none,"rate treated, before",0.028398151713515594,0.024391114163653974,0.03257713501756086,31164,399953,248275
+US,"US 2014-2021, last authors",quarter A,all other journals,months 60..83,none,"rate control, before",0.023819222475472548,0.02121657530832512,0.02656703714048464,31164,399953,248275
+US,"US 2014-2021, last authors",quarter A,all other journals,months 60..83,none,"rate treated, after",0.019991015274034143,0.0164770486795318,0.023675615095577696,31164,399953,248275
+US,"US 2014-2021, last authors",quarter A,all other journals,months 60..83,none,"rate control, after",0.015704292374472947,0.013743357944711564,0.017958084789767032,31164,399953,248275
+US,"US 2014-2021, last authors",quarter A,all other journals,months 60..83,none,difference before,0.004578929238043046,0.0012416470503601603,0.00822217671212752,31164,399953,248275
+US,"US 2014-2021, last authors",quarter A,all other journals,months 60..83,none,difference after,0.004286722899561196,0.001238310987995562,0.007428439233717243,31164,399953,248275
+US,"US 2014-2021, last authors",quarter A,all other journals,months 60..83,none,change (after minus before),-0.0002922063384818499,-0.004452021884008791,0.003743876979865377,31164,399953,248275
+US,"US 2014-2021, last authors",quarter A,all other journals,months 60..83,none,risk ratio before,1.1922367215285101,1.053282717763805,1.3558498901191827,31164,399953,248275
+US,"US 2014-2021, last authors",quarter A,all other journals,months 60..83,none,risk ratio after,1.2729650465836455,1.0802455732713043,1.4856798989105158,31164,399953,248275
+US,"US 2014-2021, last authors",quarter A,all other journals,months 60..83,none,ratio of risk ratios (after / before),1.067711657926152,0.8865191391742274,1.2828247884535489,31164,399953,248275
+US,"US 2014-2021, last authors",quarter A,all other journals,months 60..83,none,change / control after-window rate,-0.018606781605570857,-0.27874557341372186,0.24715645320104962,31164,399953,248275
+US,"US 2014-2021, last authors",quarter A,all other journals,months 60..83,detection,"rate treated, before",0.07134879698446964,0.06024179344723534,0.0830184917152967,31164,399953,248275
+US,"US 2014-2021, last authors",quarter A,all other journals,months 60..83,detection,"rate control, before",0.0612463148660009,0.05444263882794735,0.0683132591704637,31164,399953,248275
+US,"US 2014-2021, last authors",quarter A,all other journals,months 60..83,detection,"rate treated, after",0.055347358183241414,0.044961254226023165,0.06712810131103383,31164,399953,248275
+US,"US 2014-2021, last authors",quarter A,all other journals,months 60..83,detection,"rate control, after",0.04964116303303683,0.04322858971463619,0.05708107170013478,31164,399953,248275
+US,"US 2014-2021, last authors",quarter A,all other journals,months 60..83,detection,difference before,0.010102482118468738,0.0008417194617918025,0.020345102163725187,31164,399953,248275
+US,"US 2014-2021, last authors",quarter A,all other journals,months 60..83,detection,difference after,0.005706195150204582,-0.0037095635560935648,0.01579497132689796,31164,399953,248275
+US,"US 2014-2021, last authors",quarter A,all other journals,months 60..83,detection,change (after minus before),-0.004396286968264156,-0.015903081160316714,0.007884983393323068,31164,399953,248275
+US,"US 2014-2021, last authors",quarter A,all other journals,months 60..83,detection,risk ratio before,1.164948407762519,1.0134593793417386,1.3426759971904296,31164,399953,248275
+US,"US 2014-2021, last authors",quarter A,all other journals,months 60..83,detection,risk ratio after,1.1149488610169556,0.9250843718011798,1.3239932825895129,31164,399953,248275
+US,"US 2014-2021, last authors",quarter A,all other journals,months 60..83,detection,ratio of risk ratios (after / before),0.9570800334054312,0.782613582323653,1.165548862131268,31164,399953,248275
+US,"US 2014-2021, last authors",quarter A,all other journals,months 60..83,detection,change / control after-window rate,-0.08856132088078537,-0.3288997954389174,0.1610605920740001,31164,399953,248275
+US,"US 2014-2021, last authors",month A,near-top journals,months 12..35,none,"rate treated, before",0.022182610417904536,0.019464217245841877,0.025051018007233333,45441,109992,114482
+US,"US 2014-2021, last authors",month A,near-top journals,months 12..35,none,"rate control, before",0.02074900255443538,0.01842878358354055,0.023457593072381933,45441,109992,114482
+US,"US 2014-2021, last authors",month A,near-top journals,months 12..35,none,"rate treated, after",0.019893928390660415,0.01714771448325632,0.022874163552994736,45441,109992,114482
+US,"US 2014-2021, last authors",month A,near-top journals,months 12..35,none,"rate control, after",0.01875473669736193,0.016765373097486845,0.02118575624758873,45441,109992,114482
+US,"US 2014-2021, last authors",month A,near-top journals,months 12..35,none,difference before,0.0014336078634691572,-0.0014586958890903349,0.004527404056840732,45441,109992,114482
+US,"US 2014-2021, last authors",month A,near-top journals,months 12..35,none,difference after,0.0011391916932984858,-0.001805794305573817,0.003932030622019763,45441,109992,114482
+US,"US 2014-2021, last authors",month A,near-top journals,months 12..35,none,change (after minus before),-0.0002944161701706714,-0.003911580765806131,0.00342128600020511,45441,109992,114482
+US,"US 2014-2021, last authors",month A,near-top journals,months 12..35,none,risk ratio before,1.069092856859411,0.9327386232963013,1.2271671191682616,45441,109992,114482
+US,"US 2014-2021, last authors",month A,near-top journals,months 12..35,none,risk ratio after,1.0607415455455969,0.9108066799862543,1.2173691914330396,45441,109992,114482
+US,"US 2014-2021, last authors",month A,near-top journals,months 12..35,none,ratio of risk ratios (after / before),0.9921884135131657,0.8323548514642058,1.1905367471920834,45441,109992,114482
+US,"US 2014-2021, last authors",month A,near-top journals,months 12..35,none,change / control after-window rate,-0.01569822999499025,-0.20472014292283067,0.19124991518503437,45441,109992,114482
+US,"US 2014-2021, last authors",month A,near-top journals,months 12..35,detection,"rate treated, before",0.05988198448224853,0.05190330223164719,0.06884475648828457,45441,109992,114482
+US,"US 2014-2021, last authors",month A,near-top journals,months 12..35,detection,"rate control, before",0.06140158846725812,0.05395349140677618,0.06995908561566493,45441,109992,114482
+US,"US 2014-2021, last authors",month A,near-top journals,months 12..35,detection,"rate treated, after",0.058498902943347385,0.05028886951552475,0.06812261872182113,45441,109992,114482
+US,"US 2014-2021, last authors",month A,near-top journals,months 12..35,detection,"rate control, after",0.058349386124136135,0.05162370042401126,0.0659763828915241,45441,109992,114482
+US,"US 2014-2021, last authors",month A,near-top journals,months 12..35,detection,difference before,-0.001519603985009589,-0.01079114965296005,0.00802065118143712,45441,109992,114482
+US,"US 2014-2021, last authors",month A,near-top journals,months 12..35,detection,difference after,0.00014951681921124976,-0.009312172364197829,0.009371949355814615,45441,109992,114482
+US,"US 2014-2021, last authors",month A,near-top journals,months 12..35,detection,change (after minus before),0.0016691208042208389,-0.010683381675025364,0.014363244023762444,45441,109992,114482
+US,"US 2014-2021, last authors",month A,near-top journals,months 12..35,detection,risk ratio before,0.9752513896962144,0.8386041247650818,1.1398355332781678,45441,109992,114482
+US,"US 2014-2021, last authors",month A,near-top journals,months 12..35,detection,risk ratio after,1.002562440312451,0.8498095516557174,1.1657357590951152,45441,109992,114482
+US,"US 2014-2021, last authors",month A,near-top journals,months 12..35,detection,ratio of risk ratios (after / before),1.0280041135083577,0.8316417037122926,1.269147338648387,45441,109992,114482
+US,"US 2014-2021, last authors",month A,near-top journals,months 12..35,detection,change / control after-window rate,0.028605627498288447,-0.17598087963704964,0.25735036554402574,45441,109992,114482
+US,"US 2014-2021, last authors",month A,near-top journals,months 36..59,none,"rate treated, before",0.02366218764733616,0.02049553088069409,0.02708240880986722,33936,83378,88281
+US,"US 2014-2021, last authors",month A,near-top journals,months 36..59,none,"rate control, before",0.022696522943862266,0.019890683664861103,0.025708649185723152,33936,83378,88281
+US,"US 2014-2021, last authors",month A,near-top journals,months 36..59,none,"rate treated, after",0.018564356435643563,0.01564469178760723,0.021778775284504517,33936,83378,88281
+US,"US 2014-2021, last authors",month A,near-top journals,months 36..59,none,"rate control, after",0.016588623494129186,0.014279031364284763,0.018998223517748842,33936,83378,88281
+US,"US 2014-2021, last authors",month A,near-top journals,months 36..59,none,difference before,0.0009656647034738952,-0.0022008413495766452,0.00474660356278133,33936,83378,88281
+US,"US 2014-2021, last authors",month A,near-top journals,months 36..59,none,difference after,0.0019757329415143778,-0.0010008363635083141,0.005029334900189529,33936,83378,88281
+US,"US 2014-2021, last authors",month A,near-top journals,months 36..59,none,change (after minus before),0.0010100682380404825,-0.0036646573306373872,0.004943542327889966,33936,83378,88281
+US,"US 2014-2021, last authors",month A,near-top journals,months 36..59,none,risk ratio before,1.0425468123845392,0.9099677351003558,1.218543067395609,33936,83378,88281
+US,"US 2014-2021, last authors",month A,near-top journals,months 36..59,none,risk ratio after,1.1191016808726535,0.9454535422711435,1.3198817572127508,33936,83378,88281
+US,"US 2014-2021, last authors",month A,near-top journals,months 36..59,none,ratio of risk ratios (after / before),1.0734306292808244,0.8633061617613716,1.2979920064423853,33936,83378,88281
+US,"US 2014-2021, last authors",month A,near-top journals,months 36..59,none,change / control after-window rate,0.060889213526242957,-0.20619898394625572,0.30639933851055967,33936,83378,88281
+US,"US 2014-2021, last authors",month A,near-top journals,months 36..59,detection,"rate treated, before",0.06478131310084291,0.055774139838666824,0.0756305233745301,33936,83378,88281
+US,"US 2014-2021, last authors",month A,near-top journals,months 36..59,detection,"rate control, before",0.06565606029579028,0.05703499285599722,0.07529105562319459,33936,83378,88281
+US,"US 2014-2021, last authors",month A,near-top journals,months 36..59,detection,"rate treated, after",0.05757534003897407,0.04817701119664284,0.06859652689677369,33936,83378,88281
+US,"US 2014-2021, last authors",month A,near-top journals,months 36..59,detection,"rate control, after",0.05464307868020066,0.04677324234266328,0.06329027495598842,33936,83378,88281
+US,"US 2014-2021, last authors",month A,near-top journals,months 36..59,detection,difference before,-0.0008747471949473729,-0.010671320262032024,0.010178593889782695,33936,83378,88281
+US,"US 2014-2021, last authors",month A,near-top journals,months 36..59,detection,difference after,0.0029322613587734123,-0.007458828173682573,0.013352245519595978,33936,83378,88281
+US,"US 2014-2021, last authors",month A,near-top journals,months 36..59,detection,change (after minus before),0.003807008553720785,-0.011279389992450489,0.016814842054653882,33936,83378,88281
+US,"US 2014-2021, last authors",month A,near-top journals,months 36..59,detection,risk ratio before,0.98667682478957,0.8453088795901597,1.1690112986373762,33936,83378,88281
+US,"US 2014-2021, last authors",month A,near-top journals,months 36..59,detection,risk ratio after,1.053662081815238,0.8679454556732827,1.2726662269945903,33936,83378,88281
+US,"US 2014-2021, last authors",month A,near-top journals,months 36..59,detection,ratio of risk ratios (after / before),1.0678897642497625,0.834458873560674,1.3277119749051944,33936,83378,88281
+US,"US 2014-2021, last authors",month A,near-top journals,months 36..59,detection,change / control after-window rate,0.06967046231053987,-0.18755519120406475,0.32594840322287194,33936,83378,88281
+US,"US 2014-2021, last authors",month A,near-top journals,months 60..83,none,"rate treated, before",0.02594724632700404,0.0220295435145208,0.030216686760792148,23278,58718,64454
+US,"US 2014-2021, last authors",month A,near-top journals,months 60..83,none,"rate control, before",0.025172977351248765,0.021732552504400607,0.02896101435203857,23278,58718,64454
+US,"US 2014-2021, last authors",month A,near-top journals,months 60..83,none,"rate treated, after",0.017870951112638544,0.014543130791089503,0.021318450909661238,23278,58718,64454
+US,"US 2014-2021, last authors",month A,near-top journals,months 60..83,none,"rate control, after",0.01582029645465731,0.013369134829042763,0.018352333605002824,23278,58718,64454
+US,"US 2014-2021, last authors",month A,near-top journals,months 60..83,none,difference before,0.0007742689757552733,-0.0032114171631110154,0.00503931016041589,23278,58718,64454
+US,"US 2014-2021, last authors",month A,near-top journals,months 60..83,none,difference after,0.0020506546579812344,-0.0016136814954081688,0.005629912906323246,23278,58718,64454
+US,"US 2014-2021, last authors",month A,near-top journals,months 60..83,none,change (after minus before),0.0012763856822259612,-0.0037297213630253442,0.006365125533297223,23278,58718,64454
+US,"US 2014-2021, last authors",month A,near-top journals,months 60..83,none,risk ratio before,1.0307579419371649,0.883845530890399,1.2149611675255225,23278,58718,64454
+US,"US 2014-2021, last authors",month A,near-top journals,months 60..83,none,risk ratio after,1.129621759229268,0.910463638849775,1.3941746923907965,23278,58718,64454
+US,"US 2014-2021, last authors",month A,near-top journals,months 60..83,none,ratio of risk ratios (after / before),1.095913708999712,0.8528238338668443,1.4061399337959246,23278,58718,64454
+US,"US 2014-2021, last authors",month A,near-top journals,months 60..83,none,change / control after-window rate,0.08068026322289354,-0.22467188500050167,0.43054840673194067,23278,58718,64454
+US,"US 2014-2021, last authors",month A,near-top journals,months 60..83,detection,"rate treated, before",0.07042824003043954,0.05934058398291791,0.08307733409448455,23278,58718,64454
+US,"US 2014-2021, last authors",month A,near-top journals,months 60..83,detection,"rate control, before",0.07113688112410602,0.060859211204436235,0.08232290152137646,23278,58718,64454
+US,"US 2014-2021, last authors",month A,near-top journals,months 60..83,detection,"rate treated, after",0.05296102533380724,0.04269408505377869,0.06484389808898575,23278,58718,64454
+US,"US 2014-2021, last authors",month A,near-top journals,months 60..83,detection,"rate control, after",0.05132855852484809,0.04305489090670548,0.06048586227047801,23278,58718,64454
+US,"US 2014-2021, last authors",month A,near-top journals,months 60..83,detection,difference before,-0.0007086410936664733,-0.01268054628689765,0.012636247583441049,23278,58718,64454
+US,"US 2014-2021, last authors",month A,near-top journals,months 60..83,detection,difference after,0.0016324668089591488,-0.010762056511370018,0.014790139494934735,23278,58718,64454
+US,"US 2014-2021, last authors",month A,near-top journals,months 60..83,detection,change (after minus before),0.002341107902625622,-0.014544179034443975,0.01851720846199862,23278,58718,64454
+US,"US 2014-2021, last authors",month A,near-top journals,months 60..83,detection,risk ratio before,0.9900383446326503,0.8343642929128918,1.2008922659999588,23278,58718,64454
+US,"US 2014-2021, last authors",month A,near-top journals,months 60..83,detection,risk ratio after,1.0318042597702968,0.8031652494720416,1.3135759321904066,23278,58718,64454
+US,"US 2014-2021, last authors",month A,near-top journals,months 60..83,detection,ratio of risk ratios (after / before),1.0421861591160326,0.7755252460019393,1.3647126780528007,23278,58718,64454
+US,"US 2014-2021, last authors",month A,near-top journals,months 60..83,detection,change / control after-window rate,0.04561024057381807,-0.26778678310045806,0.3896172234772208,23278,58718,64454
+JP,"JP 2014-2018, last authors",month A,all other journals,months 12..35,none,"rate treated, before",0.1870967741935484,0.16563005591185612,0.2110781175271122,4495,34108,22911
+JP,"JP 2014-2018, last authors",month A,all other journals,months 12..35,none,"rate control, before",0.18374605651333017,0.16682112856362388,0.20015351626758401,4495,34108,22911
+JP,"JP 2014-2018, last authors",month A,all other journals,months 12..35,none,"rate treated, after",0.16418242491657398,0.14441372778872089,0.18573084280790753,4495,34108,22911
+JP,"JP 2014-2018, last authors",month A,all other journals,months 12..35,none,"rate control, after",0.15202480429435872,0.13751020569984174,0.1673917438207792,4495,34108,22911
+JP,"JP 2014-2018, last authors",month A,all other journals,months 12..35,none,difference before,0.003350717680218218,-0.01924857322233316,0.024703662818500272,4495,34108,22911
+JP,"JP 2014-2018, last authors",month A,all other journals,months 12..35,none,difference after,0.01215762062221526,-0.0084626941096444,0.03448363930245619,4495,34108,22911
+JP,"JP 2014-2018, last authors",month A,all other journals,months 12..35,none,change (after minus before),0.008806902941997041,-0.014210129292407347,0.0348644504872454,4495,34108,22911
+JP,"JP 2014-2018, last authors",month A,all other journals,months 12..35,none,risk ratio before,1.0182355896164506,0.8984112775426872,1.1383177633604615,4495,34108,22911
+JP,"JP 2014-2018, last authors",month A,all other journals,months 12..35,none,risk ratio after,1.0799712959911134,0.9466997087990872,1.2380199002788697,4495,34108,22911
+JP,"JP 2014-2018, last authors",month A,all other journals,months 12..35,none,ratio of risk ratios (after / before),1.0606300810973592,0.9254708945130923,1.2350559743804668,4495,34108,22911
+JP,"JP 2014-2018, last authors",month A,all other journals,months 12..35,none,change / control after-window rate,0.057930697446876074,-0.09212162332395647,0.2357618811835734,4495,34108,22911
+JP,"JP 2014-2018, last authors",month A,all other journals,months 36..59,none,"rate treated, before",0.19518377693282637,0.16877994201469387,0.22031206995229977,3156,25949,18662
+JP,"JP 2014-2018, last authors",month A,all other journals,months 36..59,none,"rate control, before",0.19796593661385053,0.1795245740291753,0.21896919900314762,3156,25949,18662
+JP,"JP 2014-2018, last authors",month A,all other journals,months 36..59,none,"rate treated, after",0.1476552598225602,0.12695967005897515,0.17322851954543042,3156,25949,18662
+JP,"JP 2014-2018, last authors",month A,all other journals,months 36..59,none,"rate control, after",0.13788002506872019,0.12318975789310133,0.15363428757291755,3156,25949,18662
+JP,"JP 2014-2018, last authors",month A,all other journals,months 36..59,none,difference before,-0.00278215968102416,-0.03046706458057312,0.02484149286668272,3156,25949,18662
+JP,"JP 2014-2018, last authors",month A,all other journals,months 36..59,none,difference after,0.009775234753840012,-0.012700180958427731,0.03507039279478695,3156,25949,18662
+JP,"JP 2014-2018, last authors",month A,all other journals,months 36..59,none,change (after minus before),0.012557394434864172,-0.019425164343312477,0.04567601198129616,3156,25949,18662
+JP,"JP 2014-2018, last authors",month A,all other journals,months 36..59,none,risk ratio before,0.9859462707139814,0.8496228570321007,1.1277132391910714,3156,25949,18662
+JP,"JP 2014-2018, last authors",month A,all other journals,months 36..59,none,risk ratio after,1.0708966708482102,0.9122771032907526,1.261876113647937,3156,25949,18662
+JP,"JP 2014-2018, last authors",month A,all other journals,months 36..59,none,ratio of risk ratios (after / before),1.0861612875443112,0.8924654950855321,1.3187755960725167,3156,25949,18662
+JP,"JP 2014-2018, last authors",month A,all other journals,months 36..59,none,change / control after-window rate,0.0910747907726699,-0.14169212824021546,0.3399151994707191,3156,25949,18662
+JP,"JP 2014-2018, last authors",month A,all other journals,months 60..83,none,"rate treated, before",0.18609271523178808,0.1545527435179541,0.22082078711687125,1510,15379,12355
+JP,"JP 2014-2018, last authors",month A,all other journals,months 60..83,none,"rate control, before",0.20182813267849328,0.17645333548863243,0.22466357767007783,1510,15379,12355
+JP,"JP 2014-2018, last authors",month A,all other journals,months 60..83,none,"rate treated, after",0.13509933774834437,0.10655256885097451,0.1671569882428348,1510,15379,12355
+JP,"JP 2014-2018, last authors",month A,all other journals,months 60..83,none,"rate control, after",0.12460223042474072,0.1046740618812704,0.14750508344065744,1510,15379,12355
+JP,"JP 2014-2018, last authors",month A,all other journals,months 60..83,none,difference before,-0.015735417446705202,-0.05030176494787436,0.025457455610084265,1510,15379,12355
+JP,"JP 2014-2018, last authors",month A,all other journals,months 60..83,none,difference after,0.01049710732360365,-0.021859079177837398,0.04467431947422124,1510,15379,12355
+JP,"JP 2014-2018, last authors",month A,all other journals,months 60..83,none,change (after minus before),0.02623252477030885,-0.019638197787111258,0.06822139143532104,1510,15379,12355
+JP,"JP 2014-2018, last authors",month A,all other journals,months 60..83,none,risk ratio before,0.922035559473905,0.761053521102761,1.129284834406464,1510,15379,12355
+JP,"JP 2014-2018, last authors",month A,all other journals,months 60..83,none,risk ratio after,1.0842449391782265,0.8323089124438391,1.387310575947954,1510,15379,12355
+JP,"JP 2014-2018, last authors",month A,all other journals,months 60..83,none,ratio of risk ratios (after / before),1.175925297064329,0.8761868394253007,1.5414691019474078,1510,15379,12355
+JP,"JP 2014-2018, last authors",month A,all other journals,months 60..83,none,change / control after-window rate,0.2105301380311422,-0.15211327479491032,0.575331964537609,1510,15379,12355
+JP,"JP 2014-2018, last authors",quarter A,all other journals,months 12..35,none,"rate treated, before",0.18972484125456995,0.17111993715496546,0.21100159338224475,5197,56407,32885
+JP,"JP 2014-2018, last authors",quarter A,all other journals,months 12..35,none,"rate control, before",0.18267277191432646,0.16915332270113886,0.19818167225856295,5197,56407,32885
+JP,"JP 2014-2018, last authors",quarter A,all other journals,months 12..35,none,"rate treated, after",0.16490282855493554,0.14679957752961342,0.18436161946185425,5197,56407,32885
+JP,"JP 2014-2018, last authors",quarter A,all other journals,months 12..35,none,"rate control, after",0.15322226140715953,0.14066541977240066,0.16720596526996453,5197,56407,32885
+JP,"JP 2014-2018, last authors",quarter A,all other journals,months 12..35,none,difference before,0.007052069340243494,-0.010721459659437617,0.02499091103078816,5197,56407,32885
+JP,"JP 2014-2018, last authors",quarter A,all other journals,months 12..35,none,difference after,0.011680567147776016,-0.006133203167964205,0.030582943378295792,5197,56407,32885
+JP,"JP 2014-2018, last authors",quarter A,all other journals,months 12..35,none,change (after minus before),0.004628497807532522,-0.01638094247181397,0.024708580706266255,5197,56407,32885
+JP,"JP 2014-2018, last authors",quarter A,all other journals,months 12..35,none,risk ratio before,1.0386049287276975,0.9435190620609026,1.138967354011462,5197,56407,32885
+JP,"JP 2014-2018, last authors",quarter A,all other journals,months 12..35,none,risk ratio after,1.0762328335354423,0.9606376393099091,1.2058489980034626,5197,56407,32885
+JP,"JP 2014-2018, last authors",quarter A,all other journals,months 12..35,none,ratio of risk ratios (after / before),1.0362292761828498,0.9162541616248859,1.1679023680246194,5197,56407,32885
+JP,"JP 2014-2018, last authors",quarter A,all other journals,months 12..35,none,change / control after-window rate,0.0302077372114562,-0.1056169282326377,0.1661176360256182,5197,56407,32885
+JP,"JP 2014-2018, last authors",quarter A,all other journals,months 36..59,none,"rate treated, before",0.1983771684387241,0.17428111888709305,0.2235108567395173,3574,41381,26246
+JP,"JP 2014-2018, last authors",quarter A,all other journals,months 36..59,none,"rate control, before",0.19555613448896333,0.1789753898014962,0.2138255125340927,3574,41381,26246
+JP,"JP 2014-2018, last authors",quarter A,all other journals,months 36..59,none,"rate treated, after",0.14689423614997202,0.12634894803663224,0.1681906773253906,3574,41381,26246
+JP,"JP 2014-2018, last authors",quarter A,all other journals,months 36..59,none,"rate control, after",0.13944737031698162,0.1256729938470546,0.1548235004923668,3574,41381,26246
+JP,"JP 2014-2018, last authors",quarter A,all other journals,months 36..59,none,difference before,0.0028210339497607706,-0.02093492479182336,0.02738600075847884,3574,41381,26246
+JP,"JP 2014-2018, last authors",quarter A,all other journals,months 36..59,none,difference after,0.007446865832990396,-0.014294527070904924,0.028995404950900333,3574,41381,26246
+JP,"JP 2014-2018, last authors",quarter A,all other journals,months 36..59,none,change (after minus before),0.004625831883229625,-0.023967997909116485,0.03127820798219114,3574,41381,26246
+JP,"JP 2014-2018, last authors",quarter A,all other journals,months 36..59,none,risk ratio before,1.0144256990819174,0.8965158956534051,1.1428272070653187,3574,41381,26246
+JP,"JP 2014-2018, last authors",quarter A,all other journals,months 36..59,none,risk ratio after,1.053402698208383,0.9029030602924248,1.2273256309075329,3574,41381,26246
+JP,"JP 2014-2018, last authors",quarter A,all other journals,months 36..59,none,ratio of risk ratios (after / before),1.03842272446542,0.8770323546272321,1.214297592616463,3574,41381,26246
+JP,"JP 2014-2018, last authors",quarter A,all other journals,months 36..59,none,change / control after-window rate,0.03317260033455289,-0.16892325137767752,0.22555627111691384,3574,41381,26246
+JP,"JP 2014-2018, last authors",quarter A,all other journals,months 60..83,none,"rate treated, before",0.1904470300061237,0.16090776904815285,0.2242143320120619,1633,22392,16651
+JP,"JP 2014-2018, last authors",quarter A,all other journals,months 60..83,none,"rate control, before",0.2019970491592525,0.1812488919578644,0.22404941027205028,1633,22392,16651
+JP,"JP 2014-2018, last authors",quarter A,all other journals,months 60..83,none,"rate treated, after",0.13717085119412126,0.11033125623433063,0.16846095676625353,1633,22392,16651
+JP,"JP 2014-2018, last authors",quarter A,all other journals,months 60..83,none,"rate control, after",0.12583793763962153,0.10958718925897908,0.14496799790078996,1633,22392,16651
+JP,"JP 2014-2018, last authors",quarter A,all other journals,months 60..83,none,difference before,-0.01155001915312881,-0.0422990644341979,0.020812638309934958,1633,22392,16651
+JP,"JP 2014-2018, last authors",quarter A,all other journals,months 60..83,none,difference after,0.011332913554499724,-0.017356911397852025,0.043363958592253365,1633,22392,16651
+JP,"JP 2014-2018, last authors",quarter A,all other journals,months 60..83,none,change (after minus before),0.022882932707628534,-0.01655583982074115,0.06363772121513471,1633,22392,16651
+JP,"JP 2014-2018, last authors",quarter A,all other journals,months 60..83,none,risk ratio before,0.9428208520807505,0.7973312063302253,1.1074060786066622,1633,22392,16651
+JP,"JP 2014-2018, last authors",quarter A,all other journals,months 60..83,none,risk ratio after,1.0900595938480433,0.8687029187027256,1.3666209163905216,1633,22392,16651
+JP,"JP 2014-2018, last authors",quarter A,all other journals,months 60..83,none,ratio of risk ratios (after / before),1.1561683128267108,0.9111780904261774,1.4830655760123828,1633,22392,16651
+JP,"JP 2014-2018, last authors",quarter A,all other journals,months 60..83,none,change / control after-window rate,0.18184446707288993,-0.12015184954701758,0.5144948550440747,1633,22392,16651
+JP,"JP 2014-2018, last authors",month A,near-top journals,months 12..35,none,"rate treated, before",0.19501915708812262,0.16796512838864475,0.22350251107895505,2610,5260,6211
+JP,"JP 2014-2018, last authors",month A,near-top journals,months 12..35,none,"rate control, before",0.1942315801594386,0.17204165641818633,0.2193420312672862,2610,5260,6211
+JP,"JP 2014-2018, last authors",month A,near-top journals,months 12..35,none,"rate treated, after",0.17547892720306513,0.15185158768405516,0.20324590723406444,2610,5260,6211
+JP,"JP 2014-2018, last authors",month A,near-top journals,months 12..35,none,"rate control, after",0.16393182851743046,0.14049726079277303,0.18991028177204441,2610,5260,6211
+JP,"JP 2014-2018, last authors",month A,near-top journals,months 12..35,none,difference before,0.0007875769286840306,-0.029387272085649667,0.02999980388081483,2610,5260,6211
+JP,"JP 2014-2018, last authors",month A,near-top journals,months 12..35,none,difference after,0.011547098685634666,-0.017738642448570218,0.041159330279697016,2610,5260,6211
+JP,"JP 2014-2018, last authors",month A,near-top journals,months 12..35,none,change (after minus before),0.010759521756950635,-0.026779205682857472,0.0482314755273145,2610,5260,6211
+JP,"JP 2014-2018, last authors",month A,near-top journals,months 12..35,none,risk ratio before,1.0040548345847649,0.8586558481418294,1.165228413283673,2610,5260,6211
+JP,"JP 2014-2018, last authors",month A,near-top journals,months 12..35,none,risk ratio after,1.0704384181526219,0.8979687924604906,1.2904095902328128,2610,5260,6211
+JP,"JP 2014-2018, last authors",month A,near-top journals,months 12..35,none,ratio of risk ratios (after / before),1.0661154961674084,0.86947660350691,1.3124958642263347,2610,5260,6211
+JP,"JP 2014-2018, last authors",month A,near-top journals,months 12..35,none,change / control after-window rate,0.06563412275857462,-0.1517227911469991,0.3123332512733455,2610,5260,6211
+JP,"JP 2014-2018, last authors",month A,near-top journals,months 36..59,none,"rate treated, before",0.194129763130793,0.16340873112210424,0.23003007915681842,1942,4092,4905
+JP,"JP 2014-2018, last authors",month A,near-top journals,months 36..59,none,"rate control, before",0.20836783469209344,0.17893946565732624,0.24090951288858006,1942,4092,4905
+JP,"JP 2014-2018, last authors",month A,near-top journals,months 36..59,none,"rate treated, after",0.154994850669413,0.12695375603997225,0.1843238023623414,1942,4092,4905
+JP,"JP 2014-2018, last authors",month A,near-top journals,months 36..59,none,"rate control, after",0.14217398749521087,0.11823028508665726,0.16767567825171045,1942,4092,4905
+JP,"JP 2014-2018, last authors",month A,near-top journals,months 36..59,none,difference before,-0.014238071561300442,-0.04985246639502165,0.02221392937188886,1942,4092,4905
+JP,"JP 2014-2018, last authors",month A,near-top journals,months 36..59,none,difference after,0.012820863174202113,-0.02400310433771187,0.048260855597306154,1942,4092,4905
+JP,"JP 2014-2018, last authors",month A,near-top journals,months 36..59,none,change (after minus before),0.027058934735502554,-0.020566908685821027,0.07397166057898737,1942,4092,4905
+JP,"JP 2014-2018, last authors",month A,near-top journals,months 36..59,none,risk ratio before,0.9316685726357903,0.7730235120700203,1.1130668230882084,1942,4092,4905
+JP,"JP 2014-2018, last authors",month A,near-top journals,months 36..59,none,risk ratio after,1.0901772778556555,0.8502005157970958,1.373535173827198,1942,4092,4905
+JP,"JP 2014-2018, last authors",month A,near-top journals,months 36..59,none,ratio of risk ratios (after / before),1.1701342192657922,0.8810835288196592,1.5290007994068884,1942,4092,4905
+JP,"JP 2014-2018, last authors",month A,near-top journals,months 36..59,none,change / control after-window rate,0.19032268287765394,-0.13275658354616726,0.5513604828474907,1942,4092,4905
+JP,"JP 2014-2018, last authors",month A,near-top journals,months 60..83,none,"rate treated, before",0.1781818181818182,0.13939808291918113,0.2177151588767922,1100,2625,3246
+JP,"JP 2014-2018, last authors",month A,near-top journals,months 60..83,none,"rate control, before",0.2075179484922308,0.17301348049482765,0.24419617125349052,1100,2625,3246
+JP,"JP 2014-2018, last authors",month A,near-top journals,months 60..83,none,"rate treated, after",0.13727272727272727,0.10418064801232034,0.17177898415115386,1100,2625,3246
+JP,"JP 2014-2018, last authors",month A,near-top journals,months 60..83,none,"rate control, after",0.1370431532847801,0.1098862726326902,0.1668365097794194,1100,2625,3246
+JP,"JP 2014-2018, last authors",month A,near-top journals,months 60..83,none,difference before,-0.0293361303104126,-0.07774665107639733,0.01694539550252332,1100,2625,3246
+JP,"JP 2014-2018, last authors",month A,near-top journals,months 60..83,none,difference after,0.0002295739879471792,-0.04012446711733056,0.04200758488210779,1100,2625,3246
+JP,"JP 2014-2018, last authors",month A,near-top journals,months 60..83,none,change (after minus before),0.02956570429835978,-0.023381290101375952,0.08709881292110662,1100,2625,3246
+JP,"JP 2014-2018, last authors",month A,near-top journals,months 60..83,none,risk ratio before,0.8586332867900778,0.6641503235410026,1.0842563872726814,1100,2625,3246
+JP,"JP 2014-2018, last authors",month A,near-top journals,months 60..83,none,risk ratio after,1.0016751948743483,0.7389231677017187,1.356388551364498,1100,2625,3246
+JP,"JP 2014-2018, last authors",month A,near-top journals,months 60..83,none,ratio of risk ratios (after / before),1.1665925492115727,0.8392675428718244,1.6262350565296624,1100,2625,3246
+JP,"JP 2014-2018, last authors",month A,near-top journals,months 60..83,none,change / control after-window rate,0.21574010513988462,-0.17036020312106748,0.6556326866784762,1100,2625,3246

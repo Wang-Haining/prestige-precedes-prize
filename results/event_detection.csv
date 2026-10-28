@@ -1,0 +1,37 @@
+cc,sample,cells,comparator,after_window,arm,window,trial_windows_with_reference,detected,share
+US,"US 2014-2021, last authors",month A,all other journals,months 12..35,treated,before,2889,1131,0.39148494288681207
+US,"US 2014-2021, last authors",month A,all other journals,months 12..35,treated,after,2900,1047,0.3610344827586207
+US,"US 2014-2021, last authors",month A,all other journals,months 12..35,control,before,18489,6385,0.3453404727135053
+US,"US 2014-2021, last authors",month A,all other journals,months 12..35,control,after,17683,5736,0.3243793473958039
+US,"US 2014-2021, last authors",month A,all other journals,months 36..59,treated,before,2269,870,0.3834288232701631
+US,"US 2014-2021, last authors",month A,all other journals,months 36..59,treated,after,2049,687,0.33528550512445093
+US,"US 2014-2021, last authors",month A,all other journals,months 36..59,control,before,14567,5118,0.3513420745520697
+US,"US 2014-2021, last authors",month A,all other journals,months 36..59,control,after,13063,3946,0.30207456173926356
+US,"US 2014-2021, last authors",month A,all other journals,months 60..83,treated,before,1613,624,0.38685678859268446
+US,"US 2014-2021, last authors",month A,all other journals,months 60..83,treated,after,1279,445,0.34792806880375293
+US,"US 2014-2021, last authors",month A,all other journals,months 60..83,control,before,10422,3765,0.36125503742084053
+US,"US 2014-2021, last authors",month A,all other journals,months 60..83,control,after,8376,2458,0.2934574976122254
+US,"US 2014-2021, last authors",quarter A,all other journals,months 12..35,treated,before,3097,1265,0.4084597998062641
+US,"US 2014-2021, last authors",quarter A,all other journals,months 12..35,treated,after,3116,1161,0.3725930680359435
+US,"US 2014-2021, last authors",quarter A,all other journals,months 12..35,control,before,25706,9663,0.3759044581031666
+US,"US 2014-2021, last authors",quarter A,all other journals,months 12..35,control,after,24744,8711,0.3520449401875202
+US,"US 2014-2021, last authors",quarter A,all other journals,months 36..59,treated,before,2428,965,0.3974464579901153
+US,"US 2014-2021, last authors",quarter A,all other journals,months 36..59,treated,after,2198,760,0.34576888080072793
+US,"US 2014-2021, last authors",quarter A,all other journals,months 36..59,control,before,20053,7636,0.3807909041041241
+US,"US 2014-2021, last authors",quarter A,all other journals,months 36..59,control,after,18060,5903,0.3268549280177187
+US,"US 2014-2021, last authors",quarter A,all other journals,months 60..83,treated,before,1716,683,0.398018648018648
+US,"US 2014-2021, last authors",quarter A,all other journals,months 60..83,treated,after,1376,497,0.36119186046511625
+US,"US 2014-2021, last authors",quarter A,all other journals,months 60..83,control,before,14047,5463,0.3889086637716238
+US,"US 2014-2021, last authors",quarter A,all other journals,months 60..83,control,after,11329,3584,0.3163562538617707
+US,"US 2014-2021, last authors",month A,near-top journals,months 12..35,treated,before,2165,802,0.37043879907621247
+US,"US 2014-2021, last authors",month A,near-top journals,months 12..35,treated,after,2176,740,0.3400735294117647
+US,"US 2014-2021, last authors",month A,near-top journals,months 12..35,control,before,5084,1718,0.33792289535798586
+US,"US 2014-2021, last authors",month A,near-top journals,months 12..35,control,after,4925,1583,0.3214213197969543
+US,"US 2014-2021, last authors",month A,near-top journals,months 36..59,treated,before,1733,633,0.36526255049047895
+US,"US 2014-2021, last authors",month A,near-top journals,months 36..59,treated,after,1560,503,0.32243589743589746
+US,"US 2014-2021, last authors",month A,near-top journals,months 36..59,control,before,4047,1399,0.3456881640721522
+US,"US 2014-2021, last authors",month A,near-top journals,months 36..59,control,after,3574,1085,0.3035814213766088
+US,"US 2014-2021, last authors",month A,near-top journals,months 60..83,treated,before,1273,469,0.3684210526315789
+US,"US 2014-2021, last authors",month A,near-top journals,months 60..83,treated,after,975,329,0.3374358974358974
+US,"US 2014-2021, last authors",month A,near-top journals,months 60..83,control,before,2987,1057,0.3538667559424171
+US,"US 2014-2021, last authors",month A,near-top journals,months 60..83,control,after,2349,724,0.30821626223925075

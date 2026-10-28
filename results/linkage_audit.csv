@@ -1,0 +1,7 @@
+links,quartile,author_same_person,author_n,model_same_person_share,model_n
+"Accepted, award in outcome windows",top,20,20,0.84,150
+"Accepted, award in outcome windows",bottom,20,20,0.88,150
+Found only by broad linkage,bottom,19,20,0.75,100
+"Accepted, award before month -24",bottom,20,20,0.7,100
+"Accepted, award before month -24",top,20,20,0.71,100
+Found only by broad linkage,top,20,20,0.81,100

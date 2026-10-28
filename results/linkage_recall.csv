@@ -1,0 +1,25 @@
+author_role,quartile,reference_awards,recall,recall_broad,by,funder,names,stage
+first,bottom,68682,0.34071518010541335,0.3622492064878716,author_role+quartile,,,
+first,top,235628,0.3433632675233843,0.37365678102772165,author_role+quartile,,,
+last,bottom,109570,0.3595235922241489,0.3787989413160537,author_role+quartile,,,
+last,top,595860,0.38776558251938376,0.4042661027758198,author_role+quartile,,,
+first,bottom,60356,0.32078003843859765,0.3433627145602757,author_role+quartile+funder,NIH,,
+first,bottom,8326,0.4852269997597886,0.4991592601489311,author_role+quartile+funder,NSF,,
+first,top,197752,0.31895505481613334,0.3477132974634896,author_role+quartile+funder,NIH,,
+first,top,37876,0.4707994508395818,0.5091086703981413,author_role+quartile+funder,NSF,,
+last,bottom,100627,0.34613970405557154,0.36645234380434677,author_role+quartile+funder,NIH,,
+last,bottom,8943,0.510119646651012,0.5177233590517724,author_role+quartile+funder,NSF,,
+last,top,514044,0.36656589708274,0.38420057426990684,author_role+quartile+funder,NIH,,
+last,top,81816,0.5209616700889802,0.5303363645252762,author_role+quartile+funder,NSF,,
+first,bottom,17367,0.4328323832555997,0.4693959808832844,author_role+quartile+names,,distinctive,
+first,top,63663,0.4252391498986853,0.46656613731680885,author_role+quartile+names,,distinctive,
+last,bottom,31329,0.44230585080915447,0.46953302052411505,author_role+quartile+names,,distinctive,
+last,top,172622,0.46844550520791095,0.49486160512565025,author_role+quartile+names,,distinctive,
+last,bottom,16537,0.3720142710286025,0.40085868053455886,author_role+quartile+stage,,,5 to <10 years
+last,bottom,16567,0.3363916218989558,0.365063077201666,author_role+quartile+stage,,,<5 years
+last,bottom,76466,0.3618340177333717,0.37700415871106113,author_role+quartile+stage,,,>=10 years
+last,top,89476,0.3757543922392597,0.3990679064777147,author_role+quartile+stage,,,5 to <10 years
+last,top,73510,0.36524282410556386,0.3942864916337913,author_role+quartile+stage,,,<5 years
+last,top,432874,0.39407310210361446,0.40703530357563633,author_role+quartile+stage,,,>=10 years
+last,bottom,160758,0.36120752932980005,0.3852996429415643,history window: author_role+quartile,,,
+last,top,924462,0.38140237240687014,0.4021517379838219,history window: author_role+quartile,,,

@@ -1,0 +1,15 @@
+cc,sample,cells,comparator,after_window,correction,measure,estimate,lo,hi,treated_trials,control_trials,scientists
+US,"US 2017-2020, last authors",month A,all other journals,months 12..35,none,"rate treated, before",0.021325384086218757,0.01820153612654009,0.0248544584088243,30527,270848,185251
+US,"US 2017-2020, last authors",month A,all other journals,months 12..35,none,"rate control, before",0.01658569162149365,0.0147408199672544,0.01894792764201814,30527,270848,185251
+US,"US 2017-2020, last authors",month A,all other journals,months 12..35,none,"rate treated, after",0.018868542601631344,0.015703543103488912,0.022456721759097333,30527,270848,185251
+US,"US 2017-2020, last authors",month A,all other journals,months 12..35,none,"rate control, after",0.014518457833862903,0.012614619185092704,0.016625924660640147,30527,270848,185251
+US,"US 2017-2020, last authors",month A,all other journals,months 12..35,none,difference before,0.004739692464725106,0.0014214474449072967,0.0077472650792205265,30527,270848,185251
+US,"US 2017-2020, last authors",month A,all other journals,months 12..35,none,difference after,0.004350084767768441,0.0010227469043637037,0.007583778190359501,30527,270848,185251
+US,"US 2017-2020, last authors",month A,all other journals,months 12..35,none,change (after minus before),-0.0003896076969566644,-0.0043062445960606625,0.0034272380085803985,30527,270848,185251
+US,"US 2017-2020, last authors",month A,all other journals,months 12..35,none,risk ratio before,1.2857699620185188,1.0826492745547347,1.485069853271155,30527,270848,185251
+US,"US 2017-2020, last authors",month A,all other journals,months 12..35,none,risk ratio after,1.2996244379084319,1.0667568339768683,1.5558554648607628,30527,270848,185251
+US,"US 2017-2020, last authors",month A,all other journals,months 12..35,none,ratio of risk ratios (after / before),1.0107752368613145,0.8188888878371151,1.233622842204929,30527,270848,185251
+US,"US 2017-2020, last authors",month A,all other journals,months 12..35,none,change / control after-window rate,-0.026835336191695376,-0.2824068807075964,0.23528093283968904,30527,270848,185251
+US,"first_paper.csv, index papers 2017-2020, no earlier top-journal paper",index year,all other journals,months 12..35,none,difference after,0.0032675850022707924,0.0005985279890816094,0.005994342581421257,26911,619260,476475
+US,"first_paper.csv, index papers 2017-2020, no earlier top-journal paper",index year,all other journals,months 12..35,none,difference before,0.0030569983392757386,0.00023527812363236732,0.005927559864957033,26911,619260,476475
+US,"first_paper.csv, index papers 2017-2020, no earlier top-journal paper",index year,all other journals,months 12..35,none,change (after minus before),0.00021058666299505368,-0.00353526498062645,0.0035980139307709453,26911,619260,476475

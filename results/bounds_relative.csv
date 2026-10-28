@@ -1,0 +1,11 @@
+comparison,measure,correction,estimate,upper_limit,upper_limit_over_rate,benchmark,below_benchmark
+between scientists,ratio of risk ratios minus 1,none,0.031761421998219186,0.07561145212535432,0.07561145212535432,0.1,True
+between scientists,ratio of risk ratios minus 1,detection,0.01467773525639493,0.0653561042950824,0.0653561042950824,0.1,True
+same scientist,risk ratio minus 1,none,-0.0028482138378257416,0.11791757217859886,0.11791757217859886,0.1,False
+same scientist,risk ratio minus 1,detection,-0.005637588146186978,0.11747836641469575,0.11747836641469575,0.1,False
+first top-journal paper,"change / matched comparison rate, after window",none,0.018112245989288213,0.31673682181789475,0.3094598321667709,0.1,False
+first top-journal paper,after-window difference / matched comparison rate,none,0.2810401309860162,0.5336740953189044,0.515564498884328,0.1,False
+first top-journal paper,ratio of risk ratios minus 1,none,0.046665500468570764,0.31188375113367683,0.31188375113367683,0.1,False
+first top-journal paper,"change / matched comparison rate, after window",detection,0.09551373887062746,0.44857270531445953,0.4317612912203799,0.1,False
+first top-journal paper,after-window difference / matched comparison rate,detection,0.36540930623822554,0.6877335985096276,0.650521896068167,0.1,False
+first top-journal paper,ratio of risk ratios minus 1,detection,0.09419069392990975,0.42422521931234636,0.42422521931234636,0.1,False

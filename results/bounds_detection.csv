@@ -1,0 +1,17 @@
+linkage,group,window,windows,detected,share
+main,all papers: top 5%,before window,21512,10104,0.4696913350687988
+main,all papers: top 5%,after window,20226,9010,0.4454662315831108
+main,all papers: other journals,before window,108683,48618,0.4473376701048002
+main,all papers: other journals,after window,101203,42226,0.41724059563451676
+main,same-scientist pairs: top-journal paper,before window,10348,4783,0.4622149207576343
+main,same-scientist pairs: top-journal paper,after window,10298,4461,0.433190910856477
+main,same-scientist pairs: other paper,before window,10000,4701,0.4701
+main,same-scientist pairs: other paper,after window,10732,4636,0.43197912784196796
+main,first top-journal paper (2017-2020),before window,946,398,0.42071881606765327
+broad,first top-journal paper (2017-2020),before window,946,400,0.42283298097251587
+main,first top-journal paper (2017-2020),after window,903,337,0.37320044296788485
+broad,first top-journal paper (2017-2020),after window,903,375,0.4152823920265781
+main,"comparison papers, other journals (2017-2020)",before window,13575,5823,0.4289502762430939
+broad,"comparison papers, other journals (2017-2020)",before window,13575,5940,0.4375690607734807
+main,"comparison papers, other journals (2017-2020)",after window,12429,4944,0.3977793869176925
+broad,"comparison papers, other journals (2017-2020)",after window,12429,5386,0.4333413790329069
